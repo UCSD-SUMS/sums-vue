@@ -1,0 +1,24 @@
+{
+  "name": "sums",
+  "version": "0.0.1",
+  "description": "Website for the Society of Undergraduate Mathematics Students.",
+  "main": "index.js",
+  "authors": {
+    "name": "SUMS",
+    "email": "sums@ucsd.edu"
+  },
+  "repository": "https://github.com/UCSD-SUMS/sums-vue.git",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "serve": "http-server ./docs -p 8000 -a 127.0.0.1 -c-1",
+    "test": "yarn build && yarn serve",
+    "github": "VUE_BASE='/sums-vue/' yarn build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "prettier": "^2.1.2",
+    "vuepress": "^1.5.3"
+  }
+}
