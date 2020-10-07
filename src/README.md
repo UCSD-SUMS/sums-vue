@@ -11,8 +11,8 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Sign-Ins
 
-<a class="btn btn-primary btn-lg btn-block" target="blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSf_2Hrj71UvzlXTgml7_NYbgt3WXen1oxwqflTeXDApRT272Q/viewform">Event Sign-In</a>
-<a class="btn btn-secondary btn-lg btn-block" target="blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdDVfvvbuZJaPOMEv2_CXPPSTUT82-3srhmebZQVdkvP_EYiw/viewform">Meeting Sign-In</a>
+<a class="btn btn-primary btn-lg btn-block" rel="noopener noreferrer" href="/event-sign-in.html">Event Sign-In</a>
+<a class="btn btn-secondary btn-lg btn-block" rel="noopener noreferrer" href="/meeting-sign-in.html">Meeting Sign-In</a>
 
 ## Announcements
 
