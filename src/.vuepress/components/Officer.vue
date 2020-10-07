@@ -5,7 +5,7 @@
   <div class="row">
     <!-- Bootstrap Column -->
     <div class="col-md-4">
-      <img v-bind:src="'/officer-pics/' + image" class="card-img" />
+      <img v-bind:src="'./officer-pics/' + image" class="card-img" />
     </div>
 
     <!-- Bootstrap Column -->
