@@ -13,7 +13,9 @@
     "build": "vuepress build src",
     "serve": "http-server ./docs -p 8000 -a 127.0.0.1 -c-1",
     "test": "yarn build && yarn serve",
-    "github": "VUE_BASE='/sums-vue/' yarn build"
+    "github": "VUE_BASE='/sums-vue/' yarn build",
+    "sync": "rsync -r --del --progress docs/ sums@sums.ucsd.edu:public_html",
+    "department": "yarn build && yarn sync"
   },
   "license": "MIT",
   "devDependencies": {
