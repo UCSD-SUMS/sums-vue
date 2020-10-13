@@ -2,7 +2,7 @@
 
 <template>
   <!-- Bootstrap Row -->
-  <div class="row">
+  <div class="row pt-4">
     <!-- Bootstrap Column -->
     <div class="col-md-4">
       <img v-bind:src="'./officer-pics/' + image" class="card-img" />
