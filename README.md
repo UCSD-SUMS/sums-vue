@@ -31,3 +31,9 @@ yarn github
 # this should be used to build the project before
 # committing anything from ./docs to GitHub
 ```
+
+## Extra Utilities
+
+There are [additional scripts](utils/README.md) included in this repository.
+They perform several processes to make the Tech Chair's life easier.
+They also require a few more dependencies (described in the previously linked readme).

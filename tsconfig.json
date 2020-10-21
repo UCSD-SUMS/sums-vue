@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "rootDir": "utils",
+        "outDir": "dist",
+        "strict": true,
+        "resolveJsonModule": true
+    }
+}

@@ -9,18 +9,26 @@
   },
   "repository": "https://github.com/UCSD-SUMS/sums-vue.git",
   "scripts": {
+    "utils": "yarn tsc",
+    "clean": "rm -r docs/* dist/* || true",
     "dev": "vuepress dev src",
     "build": "vuepress build src",
     "serve": "http-server ./docs -p 8000 -a 127.0.0.1 -c-1",
     "test": "yarn build && yarn serve",
     "github": "VUE_BASE='/sums-vue/' yarn build",
-    "sync": "rsync -r --del --progress docs/ sums@sums.ucsd.edu:public_html",
-    "department": "yarn build && yarn sync"
+    "sync": "yarn node dist/sync.js",
+    "department": "yarn build && yarn sync",
+    "install": "yarn utils"
   },
   "license": "MIT",
   "devDependencies": {
+    "@types/node-fetch": "^2.5.7",
     "http-server": "^0.12.3",
     "prettier": "^2.1.2",
+    "typescript": "^4.0.3",
     "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
