@@ -17,3 +17,5 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 ## Announcements
 
 *None*
+
+<iframe class="newsletter rounded" src="./newsletters/2020-q1-w2.html"></iframe>
