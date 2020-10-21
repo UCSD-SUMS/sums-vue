@@ -95,15 +95,23 @@ Hobbies: *Reading, Listening to and Playing Music, Writing, Learning about Langu
 <Officer
     name="Xikai &quot;Sky&quot; Wu"
     image="APM.jpeg"
-    email=""
-    major=""
-    year="">
+    email="x5wu@ucsd.edu"
+    major="Applied Math"
+    year="3rd Year, Warren">
 <template v-slot:title>
 
 ### Treasurer
 
 </template>
 <template v-slot:extra>
+
+> I join SUMS because I personally enjoy doing math and socializing for math students is something that I think could be fun.
+> I hope I could help SUMS become a more important entity in every math student's life.
+
+Favorite Fields of Math: *Probability* <br />
+Favorite Math Classes: *MATH 180A* <br />
+Hobbies: *Badminton, Singing*
+
 </template>
 </Officer>
 
