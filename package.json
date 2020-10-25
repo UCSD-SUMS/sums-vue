@@ -22,6 +22,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@types/luxon": "^1.25.0",
     "@types/node-fetch": "^2.5.7",
     "http-server": "^0.12.3",
     "prettier": "^2.1.2",
@@ -29,6 +30,7 @@
     "vuepress": "^1.5.3"
   },
   "dependencies": {
+    "luxon": "^1.25.0",
     "node-fetch": "^2.6.1"
   }
 }
