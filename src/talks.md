@@ -21,6 +21,27 @@ We can take care of event logistics and publicity for you!
 
 ## Past Talks
 
+### 2020-2021
+
+---
+
+#### "Local and Global Principle Orientation of Number Theory" by *Tomoki Oda*
+
+<time datetime="2020-11-10">November 10, 2020</time>
+
+How can we distinguish between the relations \\(x^2 + y^2 = 1\\) and \\(x^2 + y^2 = 3\\)?
+Geometrically speaking, they only differ in scale.
+How about in terms of rational solutions?
+The relation \\(x^2 + y^2 = 1\\) has an obvious rational solution of \\((1, 0)\\), and another solution \\((3/5, 4/5)\\) which makes use of Pythagorean triples.
+In fact, there are infinitely many rational solutions!
+What about the relation \\(x^2 + y^2 = 3\\)?
+We probably have not learnt of any rational solutions on this circle, and indeed there are no rational solutions!!
+There are a variety of ways to explain why the rational solutions do not exist, but we shall be taking a Number Theory approach - one of the explanations is through Local and Global Principal by Hasse!
+This talk does not require any fancy knowledge of mathematics, but just curiosity!
+Let's discuss one of the deepest results of modern mathematics!
+
+---
+
 ### 2019-2020
 
 ---
