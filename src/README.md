@@ -1,20 +1,6 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>
-
-SUMS is hosting an interview with one of UCSD Math Department's faculty members on **Wednesday, November 18, 2020** from **12:30-1:30pm**!
-
-## Interview with a Professor
-
-Featuring Professor **Brendon Rhoades**!
-
-*Zoom meeting id: [912 9377 9657](https://ucsd.zoom.us/j/91293779657)*
-
-In this event, UCSD Math faculty member Brendon Rhoades will be interviewed by a SUMS elected representative & the audience will have a chance to ask questions at the end of the event.
-Topics covered may include, but are not limited to, the faculty member's teaching experience, research, and career path.
-
-</Announcement>
 
 ## Purpose
 
