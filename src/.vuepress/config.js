@@ -51,6 +51,7 @@ module.exports = {
   },
 
   head: [
+    // Bootstrap
     [
       "link",
       {
@@ -60,6 +61,41 @@ module.exports = {
         integrity:
           "sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z",
         crossorigin: "anonymous",
+      },
+    ],
+
+    // KaTeX
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css",
+        integrity:
+          "sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X",
+        crossorigin: "anonymous",
+      },
+    ],
+    [
+      "script",
+      {
+        defer: true,
+        src: "https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js",
+        integrity:
+          "sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4",
+        crossorigin: "anonymous",
+      },
+    ],
+    [
+      "script",
+      {
+        defer: true,
+        src:
+          "https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js",
+        integrity:
+          "sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa",
+        crossorigin: "anonymous",
+        onload:
+          "window.addEventListener('load', () => renderMathInElement(document.body));",
       },
     ],
   ],
