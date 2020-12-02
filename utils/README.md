@@ -21,3 +21,20 @@ The config file follows the following format:
   "MailChimp": "<MailChimp api key>"
 }
 ```
+
+## Build & Sync to the Department Server
+
+```bash
+yarn sync
+# synchronize built website to the department server
+
+yarn department
+# rebuild website and run `yarn sync`
+```
+
+## Fetch the Latest Newsletters
+
+```bash
+yarn newsletters
+# fetch the latest newsletters and update `latest.html`
+```

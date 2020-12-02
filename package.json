@@ -18,7 +18,8 @@
     "github": "VUE_BASE='/sums-vue/' yarn build",
     "sync": "yarn node dist/sync.js",
     "department": "yarn build && yarn sync",
-    "install": "yarn utils"
+    "install": "yarn utils",
+    "newsletters": "yarn node dist/newsletters.js"
   },
   "license": "MIT",
   "devDependencies": {
