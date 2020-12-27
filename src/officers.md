@@ -115,6 +115,31 @@ Hobbies: *Badminton, Singing*
 </template>
 </Officer>
 
+<!-- EVENTS CHAIR -->
+
+<Officer
+    name="Michael Bradley"
+    image="MichaelBradley.jpeg"
+    email="mbbradle@ucsd.edu"
+    major="Mathematics"
+    year="3rd Year, Sixth">
+<template v-slot:title>
+
+### Events Chair
+
+</template>
+<template v-slot:extra>
+
+> I joined SUMS so I could learn more math from my peers in a social setting.
+> As an officer I can play a more intimate role in the planning and execution of SUMS events.
+
+Favorite Fields of Math: *Abstract Algebra, Category Theory, and Topology* <br />
+Favorite Math Classes: *MATH 100C (Galois Theory)* <br />
+Hobbies: *Programming, Art, Writing*
+
+</template>
+</Officer>
+
 <!-- WORKSHOPS CHAIR -->
 
 <Officer
@@ -161,31 +186,6 @@ Hobbies: *Lifting, Video Games, Basketball*
 Favorite Fields of Math: *Algebra* <br />
 Favorite Math Classes: *MATH 103B* <br />
 Hobbies: *Video Games, Programming*
-
-</template>
-</Officer>
-
-<!-- TECH CHAIR -->
-
-<Officer
-    name="Michael Bradley"
-    image="MichaelBradley.jpeg"
-    email="mbbradle@ucsd.edu"
-    major="Mathematics"
-    year="3rd Year, Sixth">
-<template v-slot:title>
-
-### Tech Chair
-
-</template>
-<template v-slot:extra>
-
-> I joined SUMS so I could learn more math from my peers in a social setting.
-> As an officer I can play a more intimate role in the planning and execution of SUMS events.
-
-Favorite Fields of Math: *Abstract Algebra, Category Theory, and Topology* <br />
-Favorite Math Classes: *MATH 100C (Galois Theory)* <br />
-Hobbies: *Programming, Art, Writing*
 
 </template>
 </Officer>
