@@ -6,7 +6,7 @@
 ## SUMS Email has been *Temporarily Disabled*
 
 Due to a re-registration issue, the account [**sums@ucsd.edu**](mailto:sums@ucsd.edu) has been **temporarily disabled**.
-For the time being, please instead send emails to our [Vice President Internal](./officers.md#vice-president-internal) whose email is [**a2yang@ucsd.edu**](mailto:mbbradle@ucsd.edu).
+For the time being, please instead send emails to our [Vice President Internal](./officers.md#vice-president-internal) whose email is [**a2yang@ucsd.edu**](mailto:a2yang@ucsd.edu).
 
 </Announcement>
 <Announcement>
