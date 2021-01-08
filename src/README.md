@@ -1,21 +1,6 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>
-
-## SUMS Email has been *Temporarily Disabled*
-
-Due to a re-registration issue, the account [**sums@ucsd.edu**](mailto:sums@ucsd.edu) has been **temporarily disabled**.
-For the time being, please instead send emails to our [Vice President Internal](./officers.md#vice-president-internal) whose email is [**a2yang@ucsd.edu**](mailto:a2yang@ucsd.edu).
-
-</Announcement>
-<Announcement>
-
-## Membership Form for FA20
-
-If you would like to become a SUMS member and have fulfilled our [requirements](./get-involved.md#becoming-a-member), then fill out [this form](./membership-form.md).
-
-</Announcement>
 
 ## Purpose
 
