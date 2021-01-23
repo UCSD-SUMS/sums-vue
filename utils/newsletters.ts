@@ -7,7 +7,7 @@
  */
 
 import { promises as fs } from "fs";
-const { copyFile, writeFile, access } = fs; // annoying work-around until import "fs/promises"
+const { copyFile, writeFile, access, readdir } = fs; // annoying work-around until import "fs/promises"
 import { join } from "path";
 import { DateTime } from "luxon";
 import fetch from "node-fetch";
@@ -116,8 +116,6 @@ async function grabHtml(campaignId: string): Promise<string> {
 async function main() {
   // grab the latest newsletters
   const ns = await grabNewsletters();
-  // set *old* date which is earlier than any SUMS newsletter
-  let latestTime: DateTime = DateTime.fromMillis(0);
 
   // store each newsletter if possible
   for (let n of ns) {
@@ -139,14 +137,34 @@ async function main() {
         console.log(err);
       });
     }
+  }
 
-    // copy newsletter to latest.html if it is the most modern
-    // this algorithm performs unnecessary writes
-    // maybe it should be improved in the future
+  // set *old* date, which is earlier than any SUMS newsletter
+  let latestTime: DateTime = DateTime.fromMillis(0);
+  let latestName: string | undefined = undefined;
+
+  // determine newest newsletter
+  for (let nFile of await readdir(baseNewsletters)) {
+    // extract date information from file name
+    const dateMatch = nFile.match(/(.+-.+-.+)\.html/);
+    if (dateMatch === null) continue;
+    const d = DateTime.fromFormat(dateMatch[1], "yyyy-MM-dd");
+
+    // update latest if later is found
     if (d.diff(latestTime).valueOf() > 0) {
       latestTime = d;
-      await copyFile(filePath, join(baseNewsletters, "latest.html"));
+      latestName = nFile;
     }
+  }
+
+  // copy latest newsletter into static position
+  if (latestName !== undefined) {
+    const latestTimeStr = latestTime.toFormat("yyyy-MM-dd");
+    console.log(`Copying ${latestTimeStr} newsletter into static position`);
+    await copyFile(
+      join(baseNewsletters, latestName),
+      join(baseNewsletters, "latest.html")
+    );
   }
 }
 
