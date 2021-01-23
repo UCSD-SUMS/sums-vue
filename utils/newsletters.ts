@@ -75,27 +75,23 @@ async function grabNewsletters(): Promise<Campaign[]> {
   );
 
   // convert api model to our own representation
-  const formatted = campaigns.reduce<Campaign[]>((ns, c) => {
-    ns.push({
-      id: c.id,
-      // attempt to choose whichever option is not `""`
-      title:
-        c.settings.title !== "" ? c.settings.title : c.settings.subject_line,
-      sendTime: DateTime.fromISO(c.send_time),
-    });
+  return campaigns.reduce<Campaign[]>((ns, c) => {
+    // filter out the newsletters from the fetched campaigns by checking for keyword
+    if (
+      [c.settings.title, c.settings.subject_line].some((s) =>
+        (s || "").toLowerCase().match("newsletter")
+      )
+    ) {
+      // convert raw campaigns into simple format
+      ns.push({
+        id: c.id,
+        // attempt to choose whichever option is not `""`
+        title: c.settings.title,
+        sendTime: DateTime.fromISO(c.send_time),
+      });
+    }
     return ns;
   }, []);
-
-  // filter out the newsletters from the fetched campaigns
-  const newsletters = formatted.filter((c) => {
-    try {
-      return c.title.toLowerCase().match("newsletter");
-    } catch {
-      return false;
-    }
-  });
-
-  return newsletters;
 }
 
 /** Fetch the HTML version of a campaign email. */
