@@ -2,17 +2,6 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 
-<Announcement>
-
-# \\(\LaTeX\\) Workshop
-
-SUMS will be hosting a \\(\LaTeX\\) workshop this **Friday (Jan 22)** from **5-6pm PST**.
-We are teaching basic LaTeX knowledge that they can use to create professional documents.
-We will cover how to set up and use some of the most common LaTeX packages.
-The event will be hosted on Zoom at [979 0726 6051](https://ucsd.zoom.us/j/97907266051).
-
-</Announcement>
-
 ## Purpose
 
 SUMS, a UC San Diego student organization, provides resources, workshops, talks, and social events for UCSD’s mathematics community with the goal of promoting mathematics and related fields.
