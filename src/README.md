@@ -1,19 +1,6 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>
-
-# Differential Geometry Lite with Mathematica
-
-Parsia Hedayat will be presenting a Lightning Talk **tonight** (Thursday, 2/11) from **5:30-6:30pm**.
-When we want to study the geometric properties of objects in some kind of space, how should we go about it?
-What branch of math might we look to first for help?
-In this talk, you’ll learn the basics of Differential Geometry, supplemented with graphics in Mathematica, to get a grasp of how Calculus and Linear Algebra can be used to solve problems regarding geometry.
-The topics to be covered will be curves and surfaces.
-
-Join at the Zoom meeting [971 2319 7184](https://ucsd.zoom.us/j/97123197184).
-
-</Announcement>
 
 ## Upcoming Events
 

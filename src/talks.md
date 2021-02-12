@@ -25,6 +25,17 @@ We can take care of event logistics and publicity for you!
 
 ---
 
+#### "Differential Geometry Lite with Mathematica" by *Parsia Hedayat*
+
+<time datetime="2021-02-11">February 11, 2020</time>
+
+When we want to study the geometric properties of objects in some kind of space, how should we go about it?
+What branch of math might we look to first for help?
+In this talk, you’ll learn the basics of Differential Geometry, supplemented with graphics in Mathematica, to get a grasp of how Calculus and Linear Algebra can be used to solve problems regarding geometry.
+The topics to be covered will be curves and surfaces.
+
+---
+
 #### "Local and Global Principle Orientation of Number Theory" by *Tomoki Oda*
 
 <time datetime="2020-11-10">November 10, 2020</time>
