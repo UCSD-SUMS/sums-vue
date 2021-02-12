@@ -15,6 +15,13 @@ Join at the Zoom meeting [971 2319 7184](https://ucsd.zoom.us/j/97123197184).
 
 </Announcement>
 
+## Upcoming Events
+
+<details>
+    <summary>Click to Expand</summary>
+    <iframe src="https://calendar.google.com/calendar/embed?src=slpj546eineo7jbkr2cqvmtcm0%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=AGENDA" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+</details>
+
 ## Purpose
 
 SUMS, a UC San Diego student organization, provides resources, workshops, talks, and social events for UCSD’s mathematics community with the goal of promoting mathematics and related fields.
