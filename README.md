@@ -1,7 +1,5 @@
 # The New Reusable SUMS Website
 
-See the GitHub hosted copy [here](https://ucsd-sums.github.io/sums-vue/).
-
 To save time when creating new pages, the SUMS website is transitioning from a HTML/Bootstrap/Bash/Pandoc amalgamation to a statically generated [VuePress](https://vuepress.vuejs.org/) site.
 This repository is a testing ground for that new site.
 
