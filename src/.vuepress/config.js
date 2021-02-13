@@ -94,8 +94,6 @@ module.exports = {
         integrity:
           "sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa",
         crossorigin: "anonymous",
-        onload:
-          "window.addEventListener('load', () => renderMathInElement(document.body));",
       },
     ],
   ],
