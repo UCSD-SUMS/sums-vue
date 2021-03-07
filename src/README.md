@@ -1,19 +1,6 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>
-
-## Interview with a Professor: Cristian Popescu
-
-Zoom meeting id: [992 3568 8207](https://ucsd.zoom.us/j/99235688207)
-
-SUMS is hosting an interview on **Thursday, March 4** from **6:30pm-7:30pm** with **Cristian Popescu** from UCSD's Math Department.
-
-In this event, Cristian Popescu will be interviewed by Michael Bradley, SUMS' Tech Officer.
-The audience will have an opportunity to ask questions after the primary interview is finished.
-Topics covered may include, but are not limited to, the faculty member's teaching experience, research, and thoughts on career paths in math.
-
-</Announcement>
 
 ## Upcoming Events
 
