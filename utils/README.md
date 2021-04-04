@@ -12,15 +12,8 @@ All of the system dependencies can be installed on Ubuntu with the command `apt 
 
 ## Config File
 
-To use most of the utilities in this folder, you'll need to setup `./config.json` (where `./` refers to the directory of this readme).
-The config file follows the following format:
-
-```json
-{
-  "ssh": "<ssh_password for SUMS>",
-  "MailChimp": "<MailChimp api key>"
-}
-```
+To use most of the utilities in this folder, you'll need to create a `config.json` file in the root directory of this repository.
+See [config.ts](config.ts) for documentation on every config option.
 
 ## Build & Sync to the Department Server
 
