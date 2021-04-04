@@ -9,9 +9,12 @@
 import { promises as fs } from "fs";
 const { copyFile, writeFile, access, readdir } = fs; // annoying work-around until import "fs/promises"
 import { join } from "path";
+import { URLSearchParams } from "url";
 import { DateTime } from "luxon";
 import fetch from "node-fetch";
-import { MailChimp as apiKey } from "./config.json";
+import { getConfigSync } from "./config";
+
+const apiKey = getConfigSync().MailChimp;
 
 // MailChimp requires this particular prefix before `api.mailchimp.com` for our account
 const prefix = "us15";
