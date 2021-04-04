@@ -1,9 +1,10 @@
 {
-    "compilerOptions": {
-        "rootDir": "utils",
-        "outDir": "dist",
-        "strict": true,
-        "resolveJsonModule": true,
-        "sourceMap": true
-    }
+  "compilerOptions": {
+    "rootDir": "utils",
+    "outDir": "dist",
+    "strict": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "lib": ["ES2020"]
+  }
 }
