@@ -1,16 +1,6 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>
-
-## General Body Meeting
-
-SUMS will be hosting our General Body Meeting for spring quarter this **Tuesday, April 6th**, from **5:30-6:30pm**.
-We will be discuss who we are, what we do, and what events are planned for this quarter.
-
-Zoom ID: [986 5037 5462](https://ucsd.zoom.us/j/98650375462).
-
-</Announcement>
 
 ## Upcoming Events
 
