@@ -1,6 +1,21 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>
+
+# SUMS Movie Night
+
+Come join us for a mathematical movie!
+On **Friday, April 16**, from **6-8:30pm**, we will be watching *A Beautiful Mind*.
+*A Beautiful Mind* is a 2001 American biographical drama film based on the life of the American mathematician John Nash, a Nobel Laureate in Economics and Abel Prize winner.
+The story begins in Nash's days as a graduate student at Princeton University.
+Early in the film, Nash begins to develop paranoid schizophrenia and endures delusional episodes while watching the burden his condition brings on his wife Alicia and friends.
+
+Zoom ID: [936 4235 3920](https://ucsd.zoom.us/j/93642353920)
+
+Text reused from the Wikipedia article [A Beautiful Mind](https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)) licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+</Announcement>
 
 ## Upcoming Events
 
