@@ -1,25 +1,6 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>
-
-# SUMS Upper Division Workshop
-
-Come to the SUMS Upper Division Workshop to get numerous upperclassmen perspectives on many of the upper division courses offered at the UCSD Math Department.
-Courses covered will include:
-
-* 100 / 103 / 140 / 142
-* 152 / 154 / 158 / 184 / 188
-* 102 / 105 / 121 / 153
-* 150
-* 155
-* 170
-* 180
-* 190
-
-Zoom ID: [972 7502 1578](https://ucsd.zoom.us/j/97275021578)
-
-</Announcement>
 
 ## Upcoming Events
 
