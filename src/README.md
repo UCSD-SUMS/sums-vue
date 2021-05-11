@@ -1,6 +1,20 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>
+
+## *Topology Lightning Talk* by Michael Bradley
+
+Date: **Wednesday, May 12** at **7-8pm**
+
+Zoom ID: [989 6936 0052](https://ucsd.zoom.us/j/98969360052)
+
+What does it mean for a space to be connected?
+For that matter, what is a space?
+These questions and more will be answered at this Lightning Talk.
+I'll also cover a few non-standard concepts if we have time, but you can expect most of the content to come from the first part of Math 190.
+
+</Announcement>
 
 ## Upcoming Events
 
