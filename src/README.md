@@ -3,7 +3,7 @@
 <!-- Insert an `Announcement` component here when applicable -->
 <Announcement>
 
-## *Topology Lightning Talk* by Michael Bradley
+## *Topology and <Math>I^\omega_o</Math> Lightning Talk* by Michael Bradley
 
 Date: **Wednesday, May 12** at **7-8pm**
 
@@ -12,7 +12,8 @@ Zoom ID: [989 6936 0052](https://ucsd.zoom.us/j/98969360052)
 What does it mean for a space to be connected?
 For that matter, what is a space?
 These questions and more will be answered at this Lightning Talk.
-I'll also cover a few non-standard concepts if we have time, but you can expect most of the content to come from the first part of Math 190.
+The purpose of the talk is to discuss how <Math>I^\omega_o</Math> is **connected** and **path-disconnected everywhere**.
+Expect most of the content to come from the first part of Math 190.
 
 </Announcement>
 
