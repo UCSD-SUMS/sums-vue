@@ -78,7 +78,7 @@ Hobbies: *Cooking, Singing, Tennis*
     year="4th Year, Revelle">
 <template v-slot:title>
 
-### Vice President Internal & Publicity Chair
+### Vice President External & Publicity Chair
 
 </template>
 <template v-slot:extra>
