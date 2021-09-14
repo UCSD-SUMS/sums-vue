@@ -87,7 +87,7 @@ Hobbies: *Cooking, Singing, Tennis*
 > I hope to show others at UCSD just how important math is to their lives and help other math-minded people find a community on-campus.
 
 Favorite Fields of Math: *Algebra* <br />
-Favorite Math Classes: *MATH 103B* <br />
+Favorite Math Classes: *Differential Geometry, Math 150B* <br />
 Hobbies: *Video Games, Programming*
 
 </template>
