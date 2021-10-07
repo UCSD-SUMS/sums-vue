@@ -66,4 +66,5 @@ Our officer board consists of the following positions in order of succession:
 9. Historian
 10. Tech Chair
 
-See our [constitution](./constitution.pdf) for info on elections and descriptions and duties of each office.
+See our [21-22-v3 Constitution](https://github.com/UCSD-SUMS/constitution/releases/download/21-22-v3/constitution.pdf) for info on elections and descriptions and duties of each office.
+Previous constitutions and the source repo can be found [here](https://github.com/UCSD-SUMS/constitution/releases).
