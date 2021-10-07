@@ -55,7 +55,7 @@ Staff members help officers run the organization and often become elected as off
 
 See the [constitution](#constitution) for details on becoming an officer.
 
-# Constitution
+## Constitution
 
 See our [21-22-v3 Constitution](https://github.com/UCSD-SUMS/constitution/releases/download/21-22-v3/constitution.pdf) for info on elections and descriptions and duties of each office.
 Previous constitutions and the source repo can be found [here](https://github.com/UCSD-SUMS/constitution/releases).
