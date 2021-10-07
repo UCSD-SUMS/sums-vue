@@ -1,6 +1,16 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>
+
+# SUMS General Body Meeting
+
+On **Thursday, October 7th, 6:15-7:15pm, in the Katzen Quad (directly outside AP&M)**, SUMS will be hosting its first in-person GBM in over a year.
+There we will discuss what our goals are for this year, what kinds of events we have planned, and how to get more involved in the group.
+
+We recommend that you bring a mobile device so that you may follow along with our slides, which you can find [here](https://docs.google.com/presentation/d/1S6F5H3cJwZxxibF6ak-e0PGPcnFRw4B2Alnws_QWscQ/edit?usp=sharing).
+
+</Announcement>
 
 ## Upcoming Events
 
