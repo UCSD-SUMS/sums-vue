@@ -4,6 +4,8 @@ sidebar: auto
 
 # Get Involved
 
+In case of conflicting information, the [constitution](#constitution) takes priority.
+
 ## Volunteering
 
 If you would like to help run our events, we post event volunteer opportunities on [Slack](https://ucsdsums.slack.com/).
@@ -22,11 +24,10 @@ Anyone can attend our events but an eligible student may become a SUMS member fo
 ### Requirements
 
 * Must be a registered UCSD undergraduate student (of any major).
-* Within one quarter (no carryover):
-  * Attend (and sign in to) two SUMS events (can include GBM).
-  * Attend (and sign in to) three SUMS board meetings.
-* Submit a member application after meeting member requirements.
-  New applications will be reviewed at the end of every quarter.
+* Within 90 days, attend and sign in to:
+  * At least 3 SUMS events (excluding meetings).
+  * At least 3 SUMS meetings.
+* Submit a membership application after completing all other requirements. Applications are processed at least once per quarter.
 
 ## Becoming a Staff Member
 
@@ -41,30 +42,20 @@ Staff members help officers run the organization and often become elected as off
 
 ### Requirements
 
-* Must either be a member or have met member requirements by the application deadline.
-* Submit a staff member application after meeting member requirements.
-  New applications will be reviewed at the end of every quarter.
+* Ask the Board at a meeting if a staff member position can be arranged.
+* The Board must express a need for a staff member by writing out a statement of purpose.
 
 ### Duties
 
 * Assist the officers in running the organization.
-  Complete tasks volunteered for or delegated by the officer board.
+  Complete tasks volunteered for or delegated by the Board.
 * Attend all board meetings and events planning meetings.
 
 ## Becoming an Officer
 
-Our officer board consists of the following positions in order of succession:
+See the [constitution](#constitution) for details on becoming an officer.
 
-1. President
-2. Vice President Internal
-3. Vice President External
-4. Secretary
-5. Treasurer
-6. Events Chair
-7. Workshops Chair
-8. Publicity Chair
-9. Historian
-10. Tech Chair
+# Constitution
 
 See our [21-22-v3 Constitution](https://github.com/UCSD-SUMS/constitution/releases/download/21-22-v3/constitution.pdf) for info on elections and descriptions and duties of each office.
 Previous constitutions and the source repo can be found [here](https://github.com/UCSD-SUMS/constitution/releases).
