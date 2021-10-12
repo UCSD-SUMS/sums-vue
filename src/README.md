@@ -1,16 +1,6 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>
-
-# SUMS General Body Meeting **(Zoom)**
-
-On **Thursday, October 7th, 6:15-7:15pm, on Zoom, ID [840 638 0520](https://ucsd.zoom.us/my/a2yang)**, SUMS will be hosting its ~~first in-person GBM in over a year~~ General Body Meeting online this quarter due to unforeseen circumstances.
-There we will discuss what our goals are for this year, what kinds of events we have planned, and how to get more involved in the group.
-
-You may follow along with our slides, which you can find [here](https://docs.google.com/presentation/d/1S6F5H3cJwZxxibF6ak-e0PGPcnFRw4B2Alnws_QWscQ/edit?usp=sharing).
-
-</Announcement>
 
 ## Upcoming Events
 
