@@ -3,6 +3,20 @@
 <!-- Insert an `Announcement` component here when applicable -->
 
 ## Upcoming Events
+<Announcement>
+
+# Movie Night
+
+Join SUMS on **Thursday, October 14, 4-5pm** for a showing of _The Imitation Game_ at [991 4292 4300](https://ucsd.zoom.us/j/99142924300)!
+
+> *The Imitation Game* is a 2014 American historical drama film directed by Morten Tyldum and written by Graham Moore, based on the 1983 biography Alan Turing: The Enigma by Andrew Hodges.
+> The film's title quotes the name of the game cryptanalyst Alan Turing proposed for answering the question "Can machines think?", in his 1950 seminal paper "Computing Machinery and Intelligence".
+> The film stars Benedict Cumberbatch as Turing, who decrypted German intelligence messages for the British government during World War II.
+> Keira Knightley, Matthew Goode, Rory Kinnear, Charles Dance, and Mark Strong appear in supporting roles.
+
+Source: ["The Imitation Game", Wikipedia](https://en.wikipedia.org/wiki/The_Imitation_Game)
+
+</Announcement>
 
 <details class="text-center mt-4">
     <summary class="btn btn-info">Click to Expand</summary>
