@@ -21,7 +21,7 @@ Goal: <Math>A, B</Math> both get a number <Math>N</Math>, but <Math>C</Math> doe
 </Announcement>
 
 <details class="text-center mt-4">
-    <summary class="btn btn-info">Click to Expand</summary>
+    <summary class="btn btn-info">Click to View Calendar</summary>
     <iframe src="https://calendar.google.com/calendar/embed?src=slpj546eineo7jbkr2cqvmtcm0%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=AGENDA" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </details>
 
