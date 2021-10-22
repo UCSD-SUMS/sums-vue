@@ -5,16 +5,18 @@
 ## Upcoming Events
 <Announcement>
 
-# Movie Night
+# *Lightning Talk on Cryptography* by Wenxiao Li
 
-Join SUMS on **Thursday, October 14, 4-5pm** for a showing of _The Imitation Game_ at [991 4292 4300](https://ucsd.zoom.us/j/99142924300)!
+Time: **Friday, October 22** from **2-2:30pm**
 
-> *The Imitation Game* is a 2014 American historical drama film directed by Morten Tyldum and written by Graham Moore, based on the 1983 biography Alan Turing: The Enigma by Andrew Hodges.
-> The film's title quotes the name of the game cryptanalyst Alan Turing proposed for answering the question "Can machines think?", in his 1950 seminal paper "Computing Machinery and Intelligence".
-> The film stars Benedict Cumberbatch as Turing, who decrypted German intelligence messages for the British government during World War II.
-> Keira Knightley, Matthew Goode, Rory Kinnear, Charles Dance, and Mark Strong appear in supporting roles.
+Zoom: [389 853 9281](https://ucsd.zoom.us/j/3898539281)
 
-Source: ["The Imitation Game", Wikipedia](https://en.wikipedia.org/wiki/The_Imitation_Game)
+Problem: Obtain a shared secret via interaction over a public channel.
+<Math>A, B</Math> are users on the Internet.
+Currently, they know nothing about each other.
+<Math>A, B</Math> start to communicate.
+All info sent to each other will be captured by an Adversary <Math>C</Math>.
+Goal: <Math>A, B</Math> both get a number <Math>N</Math>, but <Math>C</Math> does NOT know <Math>N</Math>.
 
 </Announcement>
 
