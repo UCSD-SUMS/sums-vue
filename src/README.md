@@ -5,18 +5,13 @@
 ## Upcoming Events
 <Announcement>
 
-# *Lightning Talk on Cryptography* by Wenxiao Li
+# Automatic Theorem Proving Workshop
 
-Time: **Friday, October 22** from **2-2:30pm**
+Time: **Tuesday, October 26** from **4-5pm**
 
-Zoom: [389 853 9281](https://ucsd.zoom.us/j/3898539281)
+Zoom: [980 7784 7297](https://ucsd.zoom.us/j/98077847297)
 
-Problem: Obtain a shared secret via interaction over a public channel.
-<Math>A, B</Math> are users on the Internet.
-Currently, they know nothing about each other.
-<Math>A, B</Math> start to communicate.
-All info sent to each other will be captured by an Adversary <Math>C</Math>.
-Goal: <Math>A, B</Math> both get a number <Math>N</Math>, but <Math>C</Math> does NOT know <Math>N</Math>.
+Michael Bradley, SUMS' Events Chair, will give an introduction to the LEAN programming language. LEAN is built on principles of type theory and can be used to both formally verify standard mathematics and generate useful programs along with proofs of correctness.
 
 </Announcement>
 
