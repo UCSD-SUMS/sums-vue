@@ -21,13 +21,30 @@ We can take care of event logistics and publicity for you!
 
 ## Past Talks
 
+### 2021-2022
+
+---
+
+#### "Lightning Talk on Cryptography" by *Wenxiao Li*
+
+<time datetime="2021-10-22">October 22, 2021</time>
+
+Problem: Obtain a shared secret via interaction over a public channel.
+<Math>A, B</Math> are users on the Internet.
+Currently, they know nothing about each other.
+<Math>A, B</Math> start to communicate.
+All info sent to each other will be captured by an Adversary <Math>C</Math>.
+Goal: <Math>A, B</Math> both get a number <Math>N</Math>, but <Math>C</Math> does NOT know <Math>N</Math>.
+
+---
+
 ### 2020-2021
 
 ---
 
 #### "Algebraic Integers and Integer Sequences Lightning Talk" by *Michael Bradley*
 
-<time datetime="2021-02-15">February 15, 2020</time>
+<time datetime="2021-02-15">February 15, 2021</time>
 
 Many mathematicians have a keen interest in *integer sequences*.
 For a real world example of this interest, see the [*On-Line Encyclopedia of Integer Sequences (OEIS)*](https://oeis.org), an easily searchable archive of the sequences mathematicians have considered most interesting.
