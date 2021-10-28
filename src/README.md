@@ -3,17 +3,6 @@
 <!-- Insert an `Announcement` component here when applicable -->
 
 ## Upcoming Events
-<Announcement>
-
-# Automatic Theorem Proving Workshop
-
-Time: **Tuesday, October 26** from **4-5pm**
-
-Zoom: [980 7784 7297](https://ucsd.zoom.us/j/98077847297)
-
-Michael Bradley, SUMS' Events Chair, will give an introduction to the LEAN programming language. LEAN is built on principles of type theory and can be used to both formally verify standard mathematics and generate useful programs along with proofs of correctness.
-
-</Announcement>
 
 <details class="text-center mt-4">
     <summary class="btn btn-info">Click to View Calendar</summary>
