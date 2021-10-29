@@ -3,31 +3,6 @@
 <!-- Insert an `Announcement` component here when applicable -->
 
 ## Upcoming Events
-<Announcement>
-
-# Interview with a Panel of Grad Students
-
-Time: **Thursday, October 28** from **5:30-6:30pm**
-
-Zoom: [987 0126 1163](https://ucsd.zoom.us/j/98701261163)
-
-In this event, a panel of graduate students will be interviewed by Angela Yang, SUMS' VP Internal.
-The audience will have an opportunity to ask questions after the primary interview is finished.
-Topics covered may include, but are not limited to, the graduate students’ teaching experiences, research, and thoughts on career paths in math.
-
-</Announcement>
-<Announcement>
-
-# R/<Math>\LaTeX</Math> Workshop
-
-Time: **Thursday, October 28** from **7-8pm**
-
-Zoom: [952 6147 1726](https://ucsd.zoom.us/j/95261471726)
-
-.<Math>\LaTeX</Math> and R are skills commonly expected of students in Math and CS classes, but are not often taught to them.
-We'll spend the workshop teaching you how to write clean and professional documents in <Math>\LaTeX</Math>, and how to use R to efficiently manipulate and visualize data.
-
-</Announcement>
 
 <details class="text-center mt-4">
     <summary class="btn btn-info">Click to View Calendar</summary>
