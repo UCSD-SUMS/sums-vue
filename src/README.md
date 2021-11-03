@@ -3,6 +3,37 @@
 <!-- Insert an `Announcement` component here when applicable -->
 
 ## Upcoming Events
+<Announcement>
+
+# Intro to Upper Div Workshop
+
+**Wednesday, November 3** from **3-4pm** in **APM 6402**
+
+Come and get numerous upperclassmen's perspectives on many of the upper division courses offered at the UCSD Math Department.
+
+</Announcement>
+<Announcement>
+
+# Proofs Workshop
+
+**Thursday, November 4** from **4-5pm** in **Zoom [932 6312 9125](https://ucsd.zoom.us/j/93263129125)**
+
+Thinking about signing up for an upper-division math course?
+Or maybe you just want to increase your overall mathematical literacy?
+SUMS officers will provide students with hands-on learning concerning how to write mathematical proofs.
+There will be a particular focus on proofs as they pertain to UCSD math classes.
+
+</Announcement>
+<Announcement>
+
+# Board Game Night
+
+**Friday, November 5** from **6-8pm** in **APM 6402**
+
+SUMS' Board Game Night serves as an icebreaker and destresser for our members.
+We will have various board games available and we encourage members to bring their own as well!
+
+</Announcement>
 
 <details class="text-center mt-4">
     <summary class="btn btn-info btn-lg">Click to View Calendar</summary>
