@@ -5,15 +5,6 @@
 ## Upcoming Events
 <Announcement>
 
-# Intro to Upper Div Workshop
-
-**Wednesday, November 3** from **3-4pm** in **APM 6402**
-
-Come and get numerous upperclassmen's perspectives on many of the upper division courses offered at the UCSD Math Department.
-
-</Announcement>
-<Announcement>
-
 # Proofs Workshop
 
 **Thursday, November 4** from **4-5pm** in **Zoom [932 6312 9125](https://ucsd.zoom.us/j/93263129125)**
