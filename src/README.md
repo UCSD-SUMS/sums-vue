@@ -5,18 +5,6 @@
 ## Upcoming Events
 <Announcement>
 
-# Proofs Workshop
-
-**Thursday, November 4** from **4-5pm** in **Zoom [932 6312 9125](https://ucsd.zoom.us/j/93263129125)**
-
-Thinking about signing up for an upper-division math course?
-Or maybe you just want to increase your overall mathematical literacy?
-SUMS officers will provide students with hands-on learning concerning how to write mathematical proofs.
-There will be a particular focus on proofs as they pertain to UCSD math classes.
-
-</Announcement>
-<Announcement>
-
 # Board Game Night
 
 **Friday, November 5** from **6-8pm** in **APM 6402**
