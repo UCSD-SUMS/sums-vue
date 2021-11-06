@@ -3,16 +3,6 @@
 <!-- Insert an `Announcement` component here when applicable -->
 
 ## Upcoming Events
-<Announcement>
-
-# Board Game Night
-
-**Friday, November 5** from **6-8pm** in **APM 6402**
-
-SUMS' Board Game Night serves as an icebreaker and destresser for our members.
-We will have various board games available and we encourage members to bring their own as well!
-
-</Announcement>
 
 <details class="text-center mt-4">
     <summary class="btn btn-info btn-lg">Click to View Calendar</summary>
