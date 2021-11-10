@@ -3,6 +3,22 @@
 <!-- Insert an `Announcement` component here when applicable -->
 
 ## Upcoming Events
+<Announcement>
+
+# Special Elections
+
+**Saturday, November 13** at **2-3pm** on Zoom at [840 638 0520](https://ucsd.zoom.us/my/a2yang)
+
+Interested in becoming part of SUMS leadership?
+Apply and run for a position in our special elections!
+We require that you be, at the very least, [eligible for membership](/get-involved.html#requirements) when you run for the position.
+Note that this election is for filling vacant spots in our leadership for the rest of the academic year.
+
+This is a great opportunity for leadership experience and to make changes you want to see in the Math Department!
+
+[Click Here to Apply](https://docs.google.com/forms/d/e/1FAIpQLSex9QEGKYz6hW-4n-Fvue6WFWjwG0s_CZMTZgbcBflTv9DqUQ/viewform)
+
+</Announcement>
 
 <details class="text-center mt-4">
     <summary class="btn btn-info btn-lg">Click to View Calendar</summary>
