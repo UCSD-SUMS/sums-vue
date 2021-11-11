@@ -5,6 +5,13 @@
 ## Upcoming Events
 <Announcement>
 
+# Today's Board Meeting (11/11) is Cancelled
+
+If you need to attend the meeting for attendance credit, the Board will consider the upcoming Special Elections to be a meeting that you can attend instead.
+
+</Announcement>
+<Announcement>
+
 # Special Elections
 
 **Saturday, November 13** at **2-3pm** on Zoom at [840 638 0520](https://ucsd.zoom.us/my/a2yang)
