@@ -3,6 +3,15 @@
 <!-- Insert an `Announcement` component here when applicable -->
 
 ## Upcoming Events
+<Announcement>
+
+# Burnout Social
+
+**Friday November 19** from **6-8:50pm** in **APM 6402**
+
+Come join SUMS to socialize, play some board games, and take a short break before finals starts!
+
+</Announcement>
 
 <details class="text-center mt-4">
     <summary class="btn btn-info btn-lg">Click to View Calendar</summary>
