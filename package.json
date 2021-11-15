@@ -18,6 +18,7 @@
     "github": "VUE_BASE='/sums-vue/' yarn build",
     "sync": "yarn node dist/sync.js",
     "department": "yarn build && yarn sync",
+    "ssh": "yarn node dist/ssh.js",
     "install": "yarn utils",
     "newsletters": "yarn node dist/newsletters.js"
   },

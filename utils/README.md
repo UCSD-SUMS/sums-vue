@@ -18,6 +18,9 @@ See [config.ts](config.ts) for documentation on every config option.
 ## Build & Sync to the Department Server
 
 ```bash
+yarn ssh
+# open a secure shell with the department server
+
 yarn sync
 # synchronize built website to the department server
 
