@@ -96,5 +96,12 @@ module.exports = {
         crossorigin: "anonymous",
       },
     ],
+    [
+      "script",
+      {
+        defer: false,
+        src: "/lib/bcrypt.min.js",
+      },
+    ],
   ],
 };

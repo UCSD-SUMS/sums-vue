@@ -29,6 +29,8 @@ Anyone can attend our events but an eligible student may become a SUMS member fo
   * At least 3 SUMS meetings.
 * Submit a membership application after completing all other requirements. Applications are processed at least once per quarter.
 
+<Participation></Participation>
+
 ## Becoming a Staff Member
 
 A SUMS member may become a staff member for further involvement with SUMS.
