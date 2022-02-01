@@ -1,6 +1,20 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>
+
+# Category Theory Lightning Talk
+
+**Tonight (Jan 31 @ 6pm)**
+
+Zoom: [986 2376 5376](https://ucsd.zoom.us/j/98623765376)
+
+Interested in learning about category theory?
+Have no idea what that is and really want to know?
+Or maybe you want to understand what's going on in the diagram above?
+Check out our upcoming lightning talk on category theory!
+
+</Announcement>
 
 ## Upcoming Events
 
