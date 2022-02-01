@@ -1,12 +1,14 @@
 SUMS mentorship program mentors and mentees have been chosen!
 
+;;;
+
 Hi {{ name }},
 
 {% if isMentor -%}
 Your mentees are:
 
 {% for mentee in mentees -%}
-* {{ mentee.name }}, {{ mentee.major }}, {{ mentee.email }}
+* {{ mentee.name }}, {{ mentee.email }}
 {% endfor %}
 {%- else -%}
 
@@ -20,5 +22,7 @@ You are free to reach out to one another on other contact methods besides email.
 
 Thank you for participating in the SUMS mentorship program!
 If you have any questions, just reach out to us at our email "sums@ucsd.edu".
+
+Mentorship details: https://docs.google.com/document/d/1oZDyXyEgFbCgL5q1_OSr-NrIpuO_TVvb4ddcNk5QNDg/edit?usp=sharing
 
 Mentorship agreement: https://docs.google.com/document/d/1RlP7iS6ArMW_JgYqYQ0sGHaj5HKC4kBEtYu_fQcJD_Y/edit?usp=sharing
