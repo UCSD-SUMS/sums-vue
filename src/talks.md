@@ -23,6 +23,15 @@ We can take care of event logistics and publicity for you!
 
 ### 2021-2022
 
+#### "Category Theory" by *Michael Bradley*
+
+<time datetime="2022-01-31">January 31, 2022</time>
+
+Interested in learning about category theory?
+Have no idea what that is and really want to know?
+Or maybe you want to understand what's going on in the diagram above?
+Check out our upcoming lightning talk on category theory!
+
 ---
 
 #### "Lightning Talk on Cryptography" by *Wenxiao Li*
