@@ -7,11 +7,7 @@ pageClass: horizontal-cards
 
 Please email us at [sums@ucsd.edu](mailto:sums@ucsd.edu) for general inquiries.
 
-## 2021-2022
-
 <!-- PRESIDENT -->
-
-<!-- TREASURER -->
 
 <Officer
     name="Kin Yau James &quot;James&quot; Wong"
@@ -21,7 +17,7 @@ Please email us at [sums@ucsd.edu](mailto:sums@ucsd.edu) for general inquiries.
     year="4th Year, Revelle">
 <template v-slot:title>
 
-### President & Treasurer
+## President
 
 </template>
 <template v-slot:extra>
@@ -40,8 +36,6 @@ Hobbies: *Bouldering, Basketball, Chess, Piano, Programming*
 
 <!-- VICE PRESIDENT INTERNAL -->
 
-<!-- SECRETARY -->
-
 <Officer
     name="Angela Yang"
     image="AngelaYang.jpeg"
@@ -50,7 +44,7 @@ Hobbies: *Bouldering, Basketball, Chess, Piano, Programming*
     year="4th Year, Marshall">
 <template v-slot:title>
 
-### Vice President Internal & Secretary
+## Vice President Internal
 
 </template>
 <template v-slot:extra>
@@ -68,8 +62,6 @@ Hobbies: *Cooking, Singing, Tennis*
 
 <!-- VICE PRESIDENT EXTERNAL -->
 
-<!-- PUBLICITY CHAIR -->
-
 <Officer
     name="Parsia Hedayat"
     image="ParsiaHedayat.jpeg"
@@ -78,7 +70,7 @@ Hobbies: *Cooking, Singing, Tennis*
     year="4th Year, Revelle">
 <template v-slot:title>
 
-### Vice President External & Publicity Chair
+## Vice President External
 
 </template>
 <template v-slot:extra>
@@ -93,8 +85,57 @@ Hobbies: *Video Games, Programming*
 </template>
 </Officer>
 
+<!-- SECRETARY -->
+
+<Officer
+    name="Seung Hyun &quot;Harry&quot; Cheon"
+    image="HarryCheon.jpeg"
+    email="scheon@ucsd.edu"
+    major="Applied Mathematics"
+    year="2nd Year, Warren">
+<template v-slot:title>
+
+## Secretary
+
+</template>
+<template v-slot:extra>
+
+> I joined SUMS in the hopes to contribute to the undergraduate Mathematics program here at UCSD.
+> Despite the large undergraduate population, the Mathematics department doesn't have a very strong presence on campus.
+> I wish to change that and make UCSD a place where you can be proud of being a part of the Math program.
+
+Favorite Fields of Math: *Probability & Statistics, Analysis* <br />
+Favorite Math Classes: *MATH 31BH, MATH 140* <br />
+Hobbies: *Golf, Basketball, Baseball, Cooking, Reading*
+
+</template>
+</Officer>
+
+<!-- TREASURER -->
+
+<Officer
+    name="Arbi Leka"
+    image=""
+    email=""
+    major=""
+    year="">
+<template v-slot:title>
+
+## Treasurer
+
+</template>
+<template v-slot:extra>
+
+> 
+
+Favorite Fields of Math: *-* <br />
+Favorite Math Classes: *-* <br />
+Hobbies: *-*
+
+</template>
+</Officer>
+
 <!-- EVENTS CHAIR -->
-<!-- TECH CHAIR -->
 
 <Officer
     name="Michael Bradley"
@@ -104,7 +145,7 @@ Hobbies: *Video Games, Programming*
     year="4th Year, Sixth">
 <template v-slot:title>
 
-### Events Chair & Tech Chair
+## Events Chair
 
 </template>
 <template v-slot:extra>
@@ -114,13 +155,13 @@ Hobbies: *Video Games, Programming*
 
 Favorite Fields of Math: *Abstract Algebra, Category Theory, and Topology* <br />
 Favorite Math Classes: *MATH 100C (Galois Theory)* <br />
-Hobbies: *Programming, Art, Writing*
+Hobbies: *Programming, Art, Writing* <br />
+Site: [disjointunion.link](https://www.disjointunion.link)
 
 </template>
 </Officer>
 
 <!-- WORKSHOPS CHAIR -->
-<!-- HISTORIAN -->
 
 <Officer
     name="Fred Rajasekaran"
@@ -130,7 +171,7 @@ Hobbies: *Programming, Art, Writing*
     year="3rd Year, Sixth">
 <template v-slot:title>
 
-### Workshops Chair & Historian
+## Workshops Chair
 
 </template>
 <template v-slot:extra>
@@ -145,6 +186,83 @@ Hobbies: *Lifting, Video Games, Basketball*
 </template>
 </Officer>
 
+<!-- PUBLICITY CHAIR -->
+
+<Officer
+    name="Julianne Galang"
+    image=""
+    email="jgalang@ucsd.edu"
+    major="Applied Math"
+    year="2nd Year, Marshall">
+<template v-slot:title>
+
+## Publicity Chair
+
+</template>
+<template v-slot:extra>
+
+> I joined SUMS to meet other students who share the same interests in math as I do.
+> As an officer, I hope to get more people involved and interested in math.
+
+Favorite Fields of Math: *Real Analysis* <br />
+Favorite Math Classes: *Math 140A* <br />
+Hobbies: *Playing music, Crocheting, Baking*
+
+</template>
+</Officer>
+
+<!-- HISTORIAN -->
+
+<Officer
+    name="Shir Levin"
+    image="ShirLevin.jpeg"
+    email="sblevin@ucsd.edu"
+    major="Applied Mathematics"
+    year="2nd Year, Sixth">
+<template v-slot:title>
+
+## Historian
+
+</template>
+<template v-slot:extra>
+
+> I joined SUMS to connect with my peers in the math department.
+> As historian, I hope to interact with more math majors and show a sense of community.
+
+Favorite Fields of Math: *Probability and Statistics* <br />
+Favorite Math Classes: *Math 18: Linear Algebra* <br />
+Hobbies: *Reading and Hiking*
+
+</template>
+</Officer>
+
+<!-- TECH CHAIR -->
+
+<Officer
+    name="Wenxiao Li"
+    image=""
+    email="wel032@ucsd.edu"
+    major="Computer Science, Mathematics"
+    year="4th Year, Sixth">
+<template v-slot:title>
+
+## Tech Chair
+
+</template>
+<template v-slot:extra>
+
+> Open to all people, embrace new tasks cada vez.
+> Spread ideas in fields that are mixtures of Math and CS.
+> As the Tech Chair, have passion to ignite.
+> Including but not limited to: maintaining SUMS website.
+
+Favorite Fields of Math: *Cryptography, AI* <br />
+Favorite Math Classes: *Math 154* <br />
+Hobbies: *Experienced in web audio tools dev with React. Interested in algorithms, a knight in LeetCode as a fact.*
+
+</template>
+</Officer>
+
 <!-- COMMUNITY ADVISOR -->
 
 <Officer
@@ -155,7 +273,7 @@ Hobbies: *Lifting, Video Games, Basketball*
     year="Department of Mathematics">
 <template v-slot:title>
 
-### Community Advisor
+## Community Advisor
 
 </template>
 <template v-slot:extra>
