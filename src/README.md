@@ -25,6 +25,14 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 <a class="btn btn-secondary btn-lg btn-block" rel="noopener noreferrer" href="./meeting-sign-in.html">Meeting Sign-In</a>
 <Participation></Participation>
 
+## Donors
+
+<div class="donor">
+  <a href="https://www.numerade.com/?utm_source=other&utem_medium=referral&utm_campaign=edu">
+    <img src="/numerade.svg" width="2786.5" height="600" style="width: 100%; height: 100%;" />
+  </a>
+</div>
+
 ## Newsletter
 
 <iframe class="newsletter rounded" src="./newsletters/latest.html"></iframe>
