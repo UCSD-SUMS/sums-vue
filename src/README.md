@@ -1,6 +1,17 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>
+
+# Interview a Professor: *Ioan Bejenaru*
+
+Date: **Today** (Thurs, Feb 24) @ **1:30pm**
+
+Location: **APM 5829** or [981 2092 1899](https://ucsd.zoom.us/j/98120921899)
+
+In this event, Professor Ioan Bejenaru will be interviewed by James Wong, SUMS' President. The audience will have an opportunity to ask questions after the primary interview is finished. Topics covered may include, but are not limited to, the faculty member's teaching experience, research, and thoughts on career paths in math.
+
+</Announcement>
 
 ## Upcoming Events
 
