@@ -15,7 +15,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Info
 
-* SUMS is holding its weekly board meetings for Winter 2022 every **Thursday 4-5pm** on Zoom at [840 638 0520](https://ucsd.zoom.us/my/a2yang).
+* SUMS is holding its weekly board meetings for Winter 2022 every **Thursday 4-5pm** on Zoom at [840 638 0520](https://ucsd.zoom.us/my/a2yang) and in **APM 5218**.
 * Our events and activities are publicized on our newsletter, on our Facebook group, and on flyers across campus.
 * Links to our newsletter, Facebook, Instagram, Twitter, and Slack are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
 
