@@ -1,6 +1,17 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>
+
+# Lightning Talk: Kakeya Needle Problem
+
+Time: **Today (Feb 28) @ 5pm**
+
+Location: **APM 5829** and [991 7482 4417](https://ucsd.zoom.us/j/99174824417)
+
+Come attend a lightning talk about a fun problem in geometry, given by our president James Wong!
+
+</Announcement>
 
 ## Upcoming Events
 
