@@ -23,6 +23,14 @@ We can take care of event logistics and publicity for you!
 
 ### 2021-2022
 
+#### "Kakeya Needle Problem" by *James Wong*
+
+<time datetime="2022-02-28">February 28, 2022</time>
+
+Come attend a lightning talk about a fun problem in geometry, given by our president James Wong!
+
+---
+
 #### "Category Theory" by *Michael Bradley*
 
 <time datetime="2022-01-31">January 31, 2022</time>
