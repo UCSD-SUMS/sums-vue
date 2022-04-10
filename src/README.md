@@ -1,6 +1,17 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>
+
+## Mathematics Graduation Stoles
+
+We are happy to announce that stoles for graduating students are available!
+
+Please use [this form](https://forms.gle/8D4zrkkqDTV9U5wt7) to purchase!
+
+**Deadline to purchase is the end of Week 4**
+
+</Announcement>
 
 ## Upcoming Events
 
