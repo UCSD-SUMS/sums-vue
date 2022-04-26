@@ -8,13 +8,27 @@
         type="email"
         placeholder="john@example.com"
         v-model="email"
-        v-on:keyup.enter="update"
       />
     </div>
-    <button class="mb-2 btn btn-primary" v-on:click="update">Get Status</button>
-    <p>
-      You have attended {{ en }} events and {{ mn }} meetings in the last 120
-      days.
+    <div>
+      <button class="m-2 btn btn-info" v-on:click="update">Get Status</button>
+      <a class="m-2 btn btn-primary" href="https://forms.gle/A1n3Bi3x1rN3pCHc7">
+        Submit Application
+      </a>
+    </div>
+    <div v-if="clicked && loading" class="m-2 spinner-border" role="status">
+      <span class="sr-only">Loading...</span>
+    </div>
+    <p v-if="clicked && !loading">
+      You have attended
+      <span class="badge badge-pill badge-secondary">
+        {{ attendance.events }}
+      </span>
+      events and
+      <span class="badge badge-pill badge-secondary">
+        {{ attendance.meetings }}
+      </span>
+      meetings in the last 90 days.
     </p>
   </div>
 </template>
@@ -24,18 +38,22 @@ import fetch from "node-fetch";
 export default {
   data: () => ({
     email: "",
-    en: 0,
-    mn: 0,
+    attendance: {
+      events: 0,
+      meetings: 0,
+    },
+    loading: false,
+    clicked: false,
   }),
   methods: {
     update: async function (event) {
-      const d = await (
-        await fetch("https://www.joinsums.org/attendance-hash.json")
-      ).json();
-      const kE = dcodeIO.bcrypt.hashSync(this.email, d.saltE);
-      const kM = dcodeIO.bcrypt.hashSync(this.email, d.saltM);
-      this.en = d.events[kE] || 0;
-      this.mn = d.meetings[kM] || 0;
+      this.clicked = true;
+      this.loading = true;
+      const res = await fetch(
+        `https://www.joinsums.org/attendance/${this.email}`
+      );
+      this.attendance = await res.json();
+      this.loading = false;
     },
   },
 };
