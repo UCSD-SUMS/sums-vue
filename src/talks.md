@@ -27,7 +27,10 @@ We can take care of event logistics and publicity for you!
 
 <time datetime="2022-02-28">February 28, 2022</time>
 
-Come attend a lightning talk about a fun problem in geometry, given by our president James Wong!
+A hundred years ago, Soichi Kakeya posed a question on the existence of a 2D shape of minimum size such that one can fit a unit line segment of any orientation into said shape.
+As it turns out, there is no such shape of minimal area because one can construct arbitrarily small shapes with the aforementioned property.
+
+We shall see in this talk that there are deeper implications of the existence of such shapes - namely, how they can be used to construct certain counterexamples that can help broaden our understanding of the Lebesgue Differentiation Theorem, and Fourier Multiplier Theory.
 
 ---
 
