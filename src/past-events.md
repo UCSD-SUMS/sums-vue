@@ -6,7 +6,7 @@ sidebar: auto
 
 ## Interview a Professor: Ioan Bejenaru
 
-<time datetime="2022-02-28">February 9, 2022</time>
+<time datetime="2022-02-24">February 24, 2022</time>
 
 Professor Ioan Bejenaru was be interviewed by James Wong, SUMS' President.
 The audience had an opportunity to ask questions after the primary interview was finished.
