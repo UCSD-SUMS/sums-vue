@@ -27,6 +27,7 @@ module.exports = {
       {
         text: "Social Media",
         items: [
+          { text: "Discord", link: "https://discord.gg/XVVeGHXGTt" },
           { text: "Newsletter", link: "http://eepurl.com/cJMmqf" },
           {
             text: "Facebook Group",
