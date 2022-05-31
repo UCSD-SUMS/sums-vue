@@ -19,6 +19,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 * Our events and activities are publicized on our newsletter, on our Facebook group, and on flyers across campus.
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
 * Links to our newsletter, Facebook, Instagram, Twitter, and Slack are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
+  * Our <a href="https://discord.gg/XVVeGHXGTt" class="btn btn-outline-primary btn-sm">Discord Server</a> is our most active communication channel.
 
 ## Sign-Ins
 
