@@ -4,22 +4,32 @@
 
 ## Upcoming Events
 
-<details class="text-center mt-4">
-    <summary class="btn btn-info btn-lg">Click to View Calendar</summary>
-    <iframe src="https://calendar.google.com/calendar/embed?src=slpj546eineo7jbkr2cqvmtcm0%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=AGENDA" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-</details>
+There are currently no upcoming events. Please check back next week.
+
+<!-- EVENT TABLE TEMPLATE 
+Date | Event | Time | Place
+---|:---:|---: 
+-|-|-|-
+-|-|-|-
+-|-|-|- -->
 
 ## Purpose
 
-SUMS, a UC San Diego student organization, provides resources, workshops, talks, and social events for UCSD’s mathematics community with the goal of promoting mathematics and related fields.
+SUMS, a UC San Diego student organization, provides resources, workshops, talks, and social events for UCSD’s mathematics community with the goal of promoting mathematics and related fields. <br />
+<div class = "row justify-content-center">
+  <a href="https://discord.gg/XVVeGHXGTt" class="btn btn-info" >Join Our Discord Server</a>
+</div>
+
+
 
 ## Info
 
-* SUMS is holding its weekly board meetings for Spring 2022 every **Tuesday 4:30-5:30pm** on Zoom at [971 4084 5663](https://ucsd.zoom.us/j/97140845663) and in **APM 5218**.
+* SUMS is holding its weekly board meetings for Fall 2022 every **-** on Zoom at [971 4084 5663](https://ucsd.zoom.us/j/97140845663) and in **APM 5218**.
+  * Three board meeting attendances in one quarter are required to become a member. To learn more about becoming a member please click [here](./get-involved.md)
 * Our events and activities are publicized on our newsletter, on our Facebook group, and on flyers across campus.
+  * **If you wish to become a member please remember to sign in to events and meetings**
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
-* Links to our newsletter, Facebook, Instagram, Twitter, and Slack are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
-  * Our <a href="https://discord.gg/XVVeGHXGTt" class="btn btn-outline-primary btn-sm">Discord Server</a> is our most active communication channel.
+* Links to our newsletter, Facebook, Instagram, and Twitter are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
 
 ## Sign-Ins
 

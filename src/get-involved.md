@@ -8,11 +8,22 @@ In case of conflicting information, the [constitution](#constitution) takes prio
 
 ## Volunteering
 
-If you would like to help run our events, we post event volunteer opportunities on [Slack](https://ucsdsums.slack.com/).
+If you would like to help run our events, we post event volunteer opportunities on [Discord](https://discord.gg/XVVeGHXGTt).
 
 ## Becoming a Member
 
 Anyone can attend our events but an eligible student may become a SUMS member for additional benefits.
+
+### Requirements
+
+* Must be a registered UCSD undergraduate student (of any major).
+* Within 90 days, attend and sign in to:
+  * At least 3 SUMS events (excluding meetings).
+  * At least 3 SUMS board meetings.
+* Submit a membership application after completing all other requirements. Applications are processed at least once per quarter.
+
+<Participation></Participation>
+
 
 ### Perks
 
@@ -20,16 +31,6 @@ Anyone can attend our events but an eligible student may become a SUMS member fo
 * Invitation to team building events.
 * Discounts on merchandise (e.g. mathematics graduation stoles).
 * Membership until graduation.
-
-### Requirements
-
-* Must be a registered UCSD undergraduate student (of any major).
-* Within 90 days, attend and sign in to:
-  * At least 3 SUMS events (excluding meetings).
-  * At least 3 SUMS meetings.
-* Submit a membership application after completing all other requirements. Applications are processed at least once per quarter.
-
-<Participation></Participation>
 
 ## Becoming a Staff Member
 

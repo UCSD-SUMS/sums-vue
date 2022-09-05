@@ -23,6 +23,12 @@ We can take care of event logistics and publicity for you!
 
 ### 2021-2022
 
+#### "Lebesgue Measurable Sets" by *Andrew Paul*
+
+<time datetime = "2022-05-13"> May 13, 2022</time>
+
+The interval <Math>(0,1) \subseteq\mathbb{R}</Math> clearly has length <Math>1</Math>, and the set <Math>(0,1)\cup(-4,-2)\subseteq\mathbb{R}</Math> clearly has length <Math>3</Math>, but what can we say about the lengths of more esoteric subsets of <Math>\mathbb{R}</Math>, such as <Math>\mathbb{Q}\subseteq\mathbb{R}</Math>? Lebesgue measure gives us a way to assign lengths to more exotic subsets of the real numbers, generalizing the intuitive notion of "length". While explicitly constructing Lebesgue measure is technically challenging and best left to a class on measure theory, it is much more tractable to discuss the nuances of the different types of subsets we are able to assign a length to. We will see that the axiom of choice forces us to restrict the collection of Lebesgue measurable sets to a so-called <Math>\sigma</Math>-<Math>{algebra}</Math> that is properly contained in the power set of <Math>\mathbb{R}</Math>. Despite this, there are still many interesting Lebesgue measurable sets. We will study some of these sets and explore the subtle relationship between measure-theoretic, set-theoretic, and topological notions of "size".
+
 #### "Kakeya Needle Problem" by *James Wong*
 
 <time datetime="2022-02-28">February 28, 2022</time>
