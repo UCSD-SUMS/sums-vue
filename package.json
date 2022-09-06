@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "config": "^3.3.7",
     "googleapis": "^68.0.0",
     "luxon": "^1.25.0",
     "node-fetch": "^2.6.1",

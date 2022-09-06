@@ -249,7 +249,7 @@ Hobbies: *Badminton, Table Tennis, Music*
 
 > I joined SUMS because I wanted to meet other math majors in a more social setting and to also find others who are passionate about mathematics.
 
-Favorite Fields of Math: *Calculus and Number Theory* <br />
+Favorite Fields of Math: *Analysis and Number Theory* <br />
 Favorite Math Classes: *Math 20E* <br />
 Hobbies: *Running, Knitting, Watching TV Shows*
 
