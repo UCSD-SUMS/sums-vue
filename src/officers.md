@@ -212,10 +212,10 @@ Hobbies: *Soccer, Running, Crafts, Painting*
 
 <Officer
     name="Anuj Jain"
-    image=""
-    email=""
-    major=""
-    year="">
+    image="AnujJain.jpg"
+    email="anj008@ucsd.edu"
+    major="Mathematics, Computer Science - Ocean and Atmospheric Sciences"
+    year="2nd Year, Marshall">
 <template v-slot:title>
 
 ## Historian
@@ -223,11 +223,11 @@ Hobbies: *Soccer, Running, Crafts, Painting*
 </template>
 <template v-slot:extra>
 
-> 
+> To help expand the Mathematical community at UCSD and organize useful competitions & workshops
 
-Favorite Fields of Math: *-* <br />
-Favorite Math Classes: *-* <br />
-Hobbies: *-*
+Favorite Fields of Math: *Calculus, Permutations and Combination* <br />
+Favorite Math Classes: *Math 20 Series* <br />
+Hobbies: *Badminton, Table Tennis, Music*
 
 </template>
 </Officer>
