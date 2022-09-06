@@ -88,7 +88,7 @@ Hobbies: *Playing music, Crocheting, Baking*
 
 <Officer
     name="Shir Levin"
-    image="ShirLevin.jpeg"
+    image="ShirLevin.jpg"
     email="sblevin@ucsd.edu"
     major="Applied Mathematics"
     year="3rd Year, Sixth">
@@ -99,11 +99,10 @@ Hobbies: *Playing music, Crocheting, Baking*
 </template>
 <template v-slot:extra>
 
-> I joined SUMS to connect with my peers in the math department.
-> As secretary, I hope to interact with more math majors and show a sense of community.
+> I joined SUMS to connect with my peers in the math department. 
 
 Favorite Fields of Math: *Probability and Statistics* <br />
-Favorite Math Classes: *Math 18: Linear Algebra* <br />
+Favorite Math Classes: *MATH 180A, MATH 181A* <br />
 Hobbies: *Reading and Hiking*
 
 </template>
