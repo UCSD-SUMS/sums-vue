@@ -37,7 +37,7 @@ Site: [sites.google.com/fredraj](https://sites.google.com/view/fredraj)
 
 <Officer
     name="Seung Hyun &quot;Harry&quot; Cheon"
-    image="HarryCheon.jpg"
+    image="HarryCheon.JPG"
     email="scheon@ucsd.edu"
     major="Applied Mathematics and Data Science"
     year="3rd Year, Warren">
@@ -161,7 +161,7 @@ Hobbies: *Tennis* <br />
 
 <Officer
     name="Devanshi Jain"
-    image="DevanshiJain.png"
+    image="DevanshiJain.PNG"
     email="djain@ucsd.edu"
     major="Mathematics, Computer Science"
     year="2nd Year, Revelle">
