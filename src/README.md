@@ -17,7 +17,7 @@ Date | Event | Time | Place
 
 SUMS, a UC San Diego student organization, provides resources, workshops, talks, and social events for UCSD’s mathematics community with the goal of promoting mathematics and related fields. <br />
 <div class = "row justify-content-center">
-  <a href="https://discord.gg/XVVeGHXGTt" class="btn btn-info" >Join Our Discord Server</a>
+  <a href="https://discord.gg/XVVeGHXGTt" target = "_blank" class="btn btn-info" >Join Our Discord Server</a>
 </div>
 
 
@@ -31,10 +31,15 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
 * Links to our newsletter, Facebook, Instagram, and Twitter are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
 
-## Sign-Ins
+## Forms
 
-<a class="btn btn-primary btn-lg btn-block" rel="noopener noreferrer" href="./event-sign-in.html">Event Sign-In</a>
-<a class="btn btn-secondary btn-lg btn-block" rel="noopener noreferrer" href="./meeting-sign-in.html">Meeting Sign-In</a>
+<a class="btn btn-primary btn-lg btn-block" href="https://forms.gle/zRqwfVnr4QXME5Xk6" target = "_blank">Event Sign-In</a>
+<a class="btn btn-secondary btn-lg btn-block" href="https://forms.gle/NTt7DFMNYkBJQx4y5" target = "_blank">Meeting Sign-In</a>
+<a class="btn btn-info btn-lg btn-block" href="https://forms.gle/A1n3Bi3x1rN3pCHc7" target="_blank">Submit Membership Application</a>
+
+
+
+        
 
 
 ## Donors
