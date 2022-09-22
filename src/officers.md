@@ -258,9 +258,9 @@ Hobbies: *Running, Knitting, Watching TV Shows*
 <!-- COMMUNITY ADVISOR -->
 
 <Officer
-    name="Diana Platero-Lopez"
+    name="Kelly Simmons"
     image="APM.jpeg"
-    email="dplatero@ucsd.edu"
+    email="k1simmons@ucsd.edu"
     major=""
     year="Department of Mathematics">
 <template v-slot:title>
@@ -270,7 +270,7 @@ Hobbies: *Running, Knitting, Watching TV Shows*
 </template>
 <template v-slot:extra>
 
-> Diana Platero-Lopez is the Community Advisor of SUMS as well as the Student Affairs Manager of the Department of Mathematics.
+> Kelly Simmons is the Community Advisor of SUMS. 
 
 </template>
 </Officer>
