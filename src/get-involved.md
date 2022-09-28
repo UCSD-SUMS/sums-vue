@@ -63,5 +63,5 @@ See the [constitution](#constitution) for details on becoming an officer.
 
 ## Constitution
 
-See our [22-23-v4 Constitution](https://github.com/UCSD-SUMS/constitution/releases/download/22-23-v4/constitution.pdf) for info on elections and descriptions and duties of each office.
+See our [2022-2023 Constitution](https://github.com/UCSD-SUMS/constitution/releases/download/22-23-v4.1/SUMS_constitution2223_1.pdf) for info on elections and descriptions and duties of each office.
 Previous constitutions and the source repo can be found [here](https://github.com/UCSD-SUMS/constitution/releases).
