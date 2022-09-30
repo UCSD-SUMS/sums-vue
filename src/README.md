@@ -9,6 +9,7 @@
 | -----|------ | ------|----- |
 |October 4th |General Body Meeting(GBM)| 5PM - 6:30 PM | Natural Sciences Building(Revelle)|
 |October 5th |<Math>\LaTeX</Math> Workshop|5PM - 6PM| APM 6402|
+|October 14th| Board Game Night| 5PM - 8PM| APM 6402|
 
 
 ## Purpose
@@ -29,10 +30,16 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
 * Links to our newsletter, Facebook, Instagram, and Twitter are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
 
-## Forms
+## Membership
 
+To become a SUMS member, you must meet the following requirements: 
+* Be a registered UCSD undergraduate student(of any major)
+* Attend and **sign-in to** at least 3 SUMS **events** and 3 SUMS **board meetings** within 90 days 
+* Submit a membership application **after** completing all the above requirements <br />
+* For more information click [here](./get-involved.md). 
+
+<a class="btn btn-secondary btn-lg btn-block" href="https://forms.gle/NTt7DFMNYkBJQx4y5" target = "_blank">Board Meeting Sign-In</a>
 <a class="btn btn-primary btn-lg btn-block" href="https://forms.gle/zRqwfVnr4QXME5Xk6" target = "_blank">Event Sign-In</a>
-<a class="btn btn-secondary btn-lg btn-block" href="https://forms.gle/NTt7DFMNYkBJQx4y5" target = "_blank">Meeting Sign-In</a>
 <a class="btn btn-info btn-lg btn-block" href="https://forms.gle/A1n3Bi3x1rN3pCHc7" target="_blank">Submit Membership Application</a>
 
 
