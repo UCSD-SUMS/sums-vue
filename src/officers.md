@@ -62,8 +62,8 @@ Hobbies: *Golf, Basketball, Baseball, Cooking, Reading*
 <!-- VICE PRESIDENT EXTERNAL -->
 
 <Officer
-    name="Julianne Galang"
-    image="JulieGalang.JPG"
+    name="Julie Galang"
+    image="JulieGalang.jpg"
     email="jgalang@ucsd.edu"
     major="ICAM Music, Mathematics minor"
     year="3rd Year, Marshall">
