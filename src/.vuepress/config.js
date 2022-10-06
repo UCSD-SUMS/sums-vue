@@ -22,20 +22,20 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Get Involved", link: "/get-involved.html" },
+      { text: "Past Event Resources", link: "/past-events.html"},
       { text: "Talks", link: "/talks.html" },
       { text: "Officers", link: "/officers.html" },
       {
         text: "Social Media",
         items: [
           { text: "Discord", link: "https://discord.gg/XVVeGHXGTt" },
+          { text: "Instagram", link: "https://www.instagram.com/sumsucsd/" },
           { text: "Newsletter", link: "http://eepurl.com/cJMmqf" },
           {
             text: "Facebook Group",
             link: "https://www.facebook.com/groups/sumsucsd/",
           },
-          { text: "Instagram", link: "https://www.instagram.com/sumsucsd/" },
           { text: "Twitter", link: "https://twitter.com/sumsucsd" },
-          { text: "Slack Team", link: "https://ucsdsums.slack.com/" },
           {
             text: "LinkedIn",
             link: "https://www.linkedin.com/company/ucsdsums/",
