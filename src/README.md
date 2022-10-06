@@ -7,9 +7,8 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|October 4th |General Body Meeting(GBM)| 5PM - 6:30 PM | Natural Sciences Building(Revelle)|
-|October 5th |<Math>\LaTeX</Math> Workshop|5PM - 6PM| APM 6402|
 |October 14th| Board Game Night| 5PM - 8PM| APM 6402|
+|October 17th| Interview a Professor with [Prof. Kane](https://math.ucsd.edu/people/profiles/daniel-kane)| 5PM - 6PM| APM 6402|
 
 
 ## Purpose
@@ -23,7 +22,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Info
 
-* SUMS is holding its weekly board meetings for Fall 2022 every **Tuesday from 5:00PM - 6:00PM** in **APM 6402**.
+* SUMS is holding its weekly board meetings for Fall 2022 every **Tuesday from 5:00PM - 6:00PM** in **APM 6402** and on Zoom at [958 5716 1125](https://ucsd.zoom.us/j/95857161125).
   * Three board meeting attendances in one quarter are required to become a member. To learn more about becoming a member please click [here](./get-involved.md)
 * Our events and activities are publicized on our newsletter, on our Facebook group, and on flyers across campus.
   * **If you wish to become a member please remember to sign in to events and meetings**

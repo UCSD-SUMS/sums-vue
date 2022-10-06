@@ -4,6 +4,11 @@ sidebar: auto
 
 # Past Events
 
+## CSES x SUMS <Math>\LaTeX</Math> Workshop 
+A collaboration with CSES and SUMS to teach an introduction to <Math>\LaTeX</Math> 
+* [Slides](https://docs.google.com/presentation/d/1NQB9L7JQ3HODRe00wvXLLZ3YPpZBss8PsPGH0A3W1XI/edit?usp=sharing)
+* [Overleaf Document -- Solutions](https://www.overleaf.com/read/xnsdcjkpqjbn)
+
 ## Math Industry Day
 
 <time datetime="2022-05-02">May 2, 2022</time>
