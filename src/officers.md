@@ -63,7 +63,7 @@ Hobbies: *Golf, Basketball, Baseball, Cooking, Reading*
 
 <Officer
     name="Julianne Galang"
-    image=""
+    image="JulieGalang.JPG"
     email="jgalang@ucsd.edu"
     major="ICAM Music, Mathematics minor"
     year="3rd Year, Marshall">
