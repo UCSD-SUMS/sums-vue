@@ -259,7 +259,7 @@ Hobbies: *Running, Knitting, Watching TV Shows*
 
 <Officer
     name="Kelly Simmons"
-    image="APM.jpeg"
+    image="KellySimmons.jpg"
     email="k1simmons@ucsd.edu"
     major=""
     year="Department of Mathematics">
