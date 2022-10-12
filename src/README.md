@@ -8,7 +8,7 @@
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
 |October 14th| Board Game Night| 5PM - 8PM| APM 6402|
-|October 17th| Interview a Professor with [Prof. Kane](https://math.ucsd.edu/people/profiles/daniel-kane)| 5PM - 6PM| APM 6402|
+|October 17th| Interview a Professor with [Prof. Kane](https://math.ucsd.edu/people/profiles/daniel-kane)| 4PM - 5PM| APM 6402|
 
 
 ## Purpose
