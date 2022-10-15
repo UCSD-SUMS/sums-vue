@@ -16,7 +16,7 @@ This program aims to provide a valuable experience in fostering relationships an
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
 |October 17th| Interview a Professor with [Prof. Kane](https://math.ucsd.edu/people/profiles/daniel-kane)| 4PM - 5PM| APM 6402|
-|October 19th| [Lightning Talk] Connecting the Dots: Chebyshev Polynomial Interpolation by Aiden Epperly| 5PM - 6PM| APM 6402|
+|October 19th| [Lightning Talk] Connecting the Dots: Chebyshev Polynomial Interpolation by Aidan Epperly| 5PM - 6PM| APM 6402|
 |October 19th| 20E Midterm Workshop | 6PM - 8PM| APM 7321|
 
 
