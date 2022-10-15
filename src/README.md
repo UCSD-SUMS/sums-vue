@@ -1,14 +1,24 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>Our mentorship applications are open for both mentors and mentees!  <br /> 
+* Our mentor applications are open to 2nd-5th year undergraduate and graduate students
+  * <a href="https://forms.gle/bX6yXwyUMSyvE1pW6" target = "_blank">Mentor Form</a> 
+* Our mentee applications are open to 1st-3rd year undergraduate students
+  * <a href="https://forms.gle/PRt1P9Any5SuPTBM9" target = "_blank">Mentee Form</a>
+
+This program aims to provide a valuable experience in fostering relationships and growing professionally for the academic year. 
+</Announcement>
 
 ## Upcoming Events
 
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|October 14th| Board Game Night| 5PM - 8PM| APM 6402|
 |October 17th| Interview a Professor with [Prof. Kane](https://math.ucsd.edu/people/profiles/daniel-kane)| 4PM - 5PM| APM 6402|
+|October 19th| [Lightning Talk] Connecting the Dots: Chebyshev Polynomial Interpolation by Aiden Epperly| 5PM - 6PM| APM 6402|
+|October 19th| 20E Midterm Workshop | 6PM - 8PM| APM 7321|
+
 
 
 ## Purpose
