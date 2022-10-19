@@ -15,8 +15,6 @@ This program aims to provide a valuable experience in fostering relationships an
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|October 17th| Interview a Professor with [Prof. Kane](https://math.ucsd.edu/people/profiles/daniel-kane)| 4PM - 5PM| APM 6402|
-|October 18th| 31AH Midterm Workshop | 10AM - 11AM| APM 7321|
 |October 19th| [Lightning Talk] Connecting the Dots: Chebyshev Polynomial Interpolation by Aidan Epperly| 5PM - 6PM| APM 6402|
 |October 19th| 20E Midterm Workshop | 6PM - 8PM| APM 7321|
 
@@ -33,7 +31,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Info
 
-* SUMS is holding its weekly board meetings for Fall 2022 every **Tuesday from 5:00PM - 6:00PM** in **APM 6402** and on Zoom at [958 5716 1125](https://ucsd.zoom.us/j/95857161125).
+* SUMS is holding its weekly board meetings for Fall 2022 every **Tuesday from 5:00PM - 6:00PM** in **APM 6402** ).
   * Three board meeting attendances in one quarter are required to become a member. To learn more about becoming a member please click [here](./get-involved.md)
 * Our events and activities are publicized on our newsletter, on our Facebook group, and on flyers across campus.
   * **If you wish to become a member please remember to sign in to events and meetings**
