@@ -12,11 +12,13 @@ This program aims to provide a valuable experience in fostering relationships an
 
 ## Upcoming Events
 
-<!-- EVENT TABLE TEMPLATE -->
+<!-- EVENT TABLE TEMPLATE 
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|October 19th| [Lightning Talk] Connecting the Dots: Chebyshev Polynomial Interpolation by Aidan Epperly| 5PM - 6PM| APM 6402|
-|October 19th| 20E Midterm Workshop | 6PM - 8PM| APM 7321|
+
+-->
+There are currently no upcoming events. Please check back next week. 
+
 
 
 
