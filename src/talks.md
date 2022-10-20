@@ -21,6 +21,16 @@ We can take care of event logistics and publicity for you!
 
 ## Past Talks
 
+### 2022-2023 
+
+#### "Connecting the Dots: Chebyshev Polynomial Interpolation" by *Aidan Epperly*
+
+<time datetime = "2022-10-20"> October 19, 2022 </time> 
+
+Polynomial approximation is a cornerstone of approximation theory, a widely applicable field of mathematics. Interpolation, a method of polynomial approximation, often gets a bad rap for being slow or inaccurate. Luckily, all of these problems, and more, can be solved using the wonderful world of Chebyshev polynomials and their surprising connection with Fourier series!
+
+---
+
 ### 2021-2022
 
 #### "Lebesgue Measurable Sets" by *Andrew Paul*
