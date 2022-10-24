@@ -12,12 +12,12 @@ This program aims to provide a valuable experience in fostering relationships an
 
 ## Upcoming Events
 
-<!-- EVENT TABLE TEMPLATE 
+<!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
+|October 25th | Interview a Professor: [Prof. Rhoades](https://mathweb.ucsd.edu/~bprhoades/) | 3PM - 4PM| APM 6402|
+|October 27th | Putnam Workshop: Polynomials | 5PM | APM 6402|
 
--->
-There are currently no upcoming events. Please check back next week. 
 
 
 
