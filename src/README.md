@@ -15,8 +15,9 @@ This program aims to provide a valuable experience in fostering relationships an
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|October 25th | Interview a Professor: [Prof. Rhoades](https://mathweb.ucsd.edu/~bprhoades/) | 3PM - 4PM| APM 6402|
 |October 27th | Putnam Workshop: Polynomials | 5PM | APM 6402|
+|November 3rd| Putnam Workshop: Number Theory | 5PM | APM 6402|
+|November 10th| Putnam Workshop: Combinatorics| 5PM | APM 6402|
 
 
 
@@ -54,16 +55,15 @@ To become a SUMS member, you must meet the following requirements:
 
 
 
-        
+<!--## Donors-->
 
-
-## Donors
-
+<!--
 <div class="donor">
   <a href="https://www.numerade.com/?utm_source=other&utem_medium=referral&utm_campaign=edu">
     <img src="/numerade.svg" width="2786.5" height="600" style="width: 100%; height: 100%;" />
   </a>
 </div>
+-->
 
 ## Newsletter
 
