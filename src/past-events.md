@@ -4,6 +4,10 @@ sidebar: auto
 
 # Past Events
 
+## Putnam Seminar
+This 3-part seminar was hosted by the Workshops Chair of SUMS, Devanshi. Problems and answers can be found here: 
+* Polynomials: [Problems](https://drive.google.com/file/d/1HgF_sbNV_jyYJyEWozEWOIaZiQD0U73-/view?usp=sharing)
+
 ## CSES x SUMS <Math>\LaTeX</Math> Workshop 
 A collaboration with CSES and SUMS to teach an introduction to <Math>\LaTeX</Math> 
 * [Slides](https://docs.google.com/presentation/d/1NQB9L7JQ3HODRe00wvXLLZ3YPpZBss8PsPGH0A3W1XI/edit?usp=sharing)

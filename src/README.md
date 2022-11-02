@@ -1,11 +1,9 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>Our mentorship applications are open for both mentors and mentees!  <br /> 
+<Announcement>Our mentorship applications are open for mentors! <br /> 
 * Our mentor applications are open to 2nd-5th year undergraduate and graduate students
   * <a href="https://forms.gle/bX6yXwyUMSyvE1pW6" target = "_blank">Mentor Form</a> 
-* Our mentee applications are open to 1st-3rd year undergraduate students
-  * <a href="https://forms.gle/PRt1P9Any5SuPTBM9" target = "_blank">Mentee Form</a>
 
 This program aims to provide a valuable experience in fostering relationships and growing professionally for the academic year. 
 </Announcement>
@@ -15,7 +13,7 @@ This program aims to provide a valuable experience in fostering relationships an
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|October 27th | Putnam Workshop: Polynomials | 5PM | APM 6402|
+|November 2nd | Knauss Business School: Graduate Opportunities| 4PM | APM 7321|
 |November 3rd| Putnam Workshop: Number Theory | 5PM | APM 6402|
 |November 10th| Putnam Workshop: Combinatorics| 5PM | APM 6402|
 
