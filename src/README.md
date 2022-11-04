@@ -13,9 +13,10 @@ This program aims to provide a valuable experience in fostering relationships an
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|November 2nd | Knauss Business School: Graduate Opportunities| 4PM | APM 7321|
 |November 3rd| Putnam Workshop: Number Theory | 5PM | APM 6402|
+|November 4th|Movie Night: [Good Will Hunting](https://www.imdb.com/title/tt0119217/)| 5 PM | APM 6402|
 |November 10th| Putnam Workshop: Combinatorics| 5PM | APM 6402|
+
 
 
 
