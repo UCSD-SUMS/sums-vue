@@ -1,12 +1,6 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
-<Announcement>Our mentorship applications are open for mentors! <br /> 
-* Our mentor applications are open to 2nd-5th year undergraduate and graduate students
-  * <a href="https://forms.gle/bX6yXwyUMSyvE1pW6" target = "_blank">Mentor Form</a> 
-
-This program aims to provide a valuable experience in fostering relationships and growing professionally for the academic year. 
-</Announcement>
 
 ## Upcoming Events
 
