@@ -13,8 +13,8 @@ This program aims to provide a valuable experience in fostering relationships an
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|November 9th| Upper Division Course Workshop| 5PM | APM 6402|
 |November 10th| Putnam Workshop: Combinatorics| 5PM | APM 6402|
+
 
 
 ## Purpose
