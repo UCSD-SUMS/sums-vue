@@ -7,7 +7,7 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|November 10th| Putnam Workshop: Combinatorics| 5PM | APM 6402|
+|November 15th| Math 31AH Midterm Prep Workshop| 1:30PM - 3PM| APM 7321|
 |November 17th| Undergraduate Research in Mathematics Workshop| 5PM - 6PM | APM 6402| 
 
 
