@@ -4,6 +4,9 @@ sidebar: auto
 
 # Past Events
 
+## Undergraduate Research in Mathematics Workshop 
+This workshop gave an introduction to mathematics research at UCSD, REUs, and research in math-adjacent fields. The slides for this presentation can be found [here](https://docs.google.com/presentation/d/1IKsUyRTjbYqLAO-8aqVs-svpsHMGRyR0Qb98IJuw08U/edit?usp=sharing)
+
 ## Upper-Division Mathematics Workshop 
 An introduction to the upper-division course work at UCSD. Slides can be found [here](https://docs.google.com/presentation/d/1kLMJIVU-9felJf3FOB60QxkE3wo6txCFdB7G9pFZLhM/edit?usp=sharing). 
 
