@@ -8,6 +8,7 @@
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
 -->
+There are currently no upcoming events. Please check back next week.
 
 
 
