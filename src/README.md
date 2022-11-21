@@ -4,10 +4,11 @@
 
 ## Upcoming Events
 
-<!-- EVENT TABLE TEMPLATE -->
+<!-- EVENT TABLE TEMPLATE 
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|November 17th| Undergraduate Research in Mathematics Workshop| 5PM - 6PM | APM 6402| 
+-->
+
 
 
 
