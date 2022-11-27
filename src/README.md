@@ -4,11 +4,11 @@
 
 ## Upcoming Events
 
-<!-- EVENT TABLE TEMPLATE 
+<!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
--->
-There are currently no upcoming events. Please check back next week.
+|December 2nd| End of Quarter Social | 5pm| APM 6402|
+
 
 
 
