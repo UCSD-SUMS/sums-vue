@@ -40,6 +40,10 @@ module.exports = {
             text: "LinkedIn",
             link: "https://www.linkedin.com/company/ucsdsums/",
           },
+          {
+            text: "TikTok", 
+            link: "https://www.tiktok.com/@sums.ucsd?_t=8XrH2rpnSRi&_r=1"
+          }
         ],
       },
     ],

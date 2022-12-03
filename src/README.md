@@ -4,11 +4,12 @@
 
 ## Upcoming Events
 
-<!-- EVENT TABLE TEMPLATE -->
+<!-- EVENT TABLE TEMPLATE -
 |Date | Event | Time | Place|
 | -----|------ | ------|----- |
-|December 2nd| End of Quarter Social | 5pm| APM 6402|
+-->
 
+There are currently no events. Have a great winter break!
 
 
 
@@ -24,7 +25,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Info
 
-* SUMS is holding its weekly board meetings for Fall 2022 every **Tuesday from 5:00PM - 6:00PM** in **APM 6402** ).
+* SUMS is holding its weekly board meetings for Winter 2023 every **Tuesday from 5:00PM - 6:00PM** in **APM 6402** ).
   * Three board meeting attendances in one quarter are required to become a member. To learn more about becoming a member please click [here](./get-involved.md)
 * Our events and activities are publicized on our newsletter, on our Facebook group, and on flyers across campus.
   * **If you wish to become a member please remember to sign in to events and meetings**
