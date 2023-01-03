@@ -25,12 +25,11 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Info
 
-* SUMS is holding its weekly board meetings for Winter 2023 every **Tuesday from 5:00PM - 6:00PM** in **APM 6402** ).
-  * Three board meeting attendances in one quarter are required to become a member. To learn more about becoming a member please click [here](./get-involved.md)
-* Our events and activities are publicized on our newsletter, on our Facebook group, and on flyers across campus.
-  * **If you wish to become a member please remember to sign in to events and meetings**
+* SUMS is holding its weekly board meetings for Winter 2023 every **Tuesday from 5:00PM - 6:00PM** in **APM 6402** 
+  * **If you wish to become a member please remember to sign in to events and meetings** To learn more about becoming a member please click [here](./get-involved.md).
+* Our events and activities are publicized on our newsletter, on Discord, and on flyers across campus.
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
-* Links to our newsletter, Facebook, Instagram, and Twitter are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
+* Links to our social media are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
 
 ## Membership
 
@@ -44,6 +43,10 @@ To become a SUMS member, you must meet the following requirements:
 <a class="btn btn-primary btn-lg btn-block" href="https://forms.gle/zRqwfVnr4QXME5Xk6" target = "_blank">Event Sign-In</a>
 <a class="btn btn-info btn-lg btn-block" href="https://forms.gle/A1n3Bi3x1rN3pCHc7" target="_blank">Submit Membership Application</a>
 
+## Membership Check
+To check if you meet the membership requirements, please fill in your email below. **Please remember to remove your email after checking**
+
+<iframe src="https://docs.google.com/spreadsheets/d/19-j42XJFwiYh4QqfMx8L-qHsXiUzeaa6eCvdzW-0MAE/edit?usp=sharing" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="750px" allowfullscreen></iframe>
 
 
 <!--## Donors-->
