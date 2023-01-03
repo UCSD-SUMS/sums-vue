@@ -46,7 +46,7 @@ To become a SUMS member, you must meet the following requirements:
 ## Membership Check
 To check if you meet the membership requirements, please fill in your email below. **Please remember to remove your email after checking**
 
-<iframe src="https://docs.google.com/spreadsheets/d/19-j42XJFwiYh4QqfMx8L-qHsXiUzeaa6eCvdzW-0MAE/edit?usp=sharing" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="750px" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/19-j42XJFwiYh4QqfMx8L-qHsXiUzeaa6eCvdzW-0MAE/edit?usp=sharing"  name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="110%" allowfullscreen></iframe>
 
 
 <!--## Donors-->
