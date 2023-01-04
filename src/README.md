@@ -25,7 +25,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Info
 
-* SUMS is holding its weekly board meetings for Winter 2023 every **Thursday from 5:00PM - 6:00PM** in **APM 6402** 
+* SUMS is holding its weekly board meetings every **Thursday from 5:00PM - 6:00PM** in **APM 6402** 
   * **If you wish to become a member please remember to sign in to events and meetings** To learn more about becoming a member please click [here](./get-involved.md).
 * Our events and activities are publicized on our newsletter, on Discord, and on flyers across campus.
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
