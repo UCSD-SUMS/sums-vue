@@ -9,7 +9,7 @@
 | -----|------ | ------|----- |
 -->
 
-There are currently no events. Have a great winter break!
+There are currently no events. Please check back next week!
 
 
 
