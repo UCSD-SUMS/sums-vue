@@ -4,15 +4,10 @@
 
 ## Upcoming Events
 
-<!-- EVENT TABLE TEMPLATE -
+<!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
-| -----|------ | ------|----- |
--->
-
-There are currently no events. Please check back next week!
-
-
-
+| January 24th|Winter 2023 GBM| 5-7PM| Natural Sciences Building Auditorium|
+| January 27th|Board Game Night| 5:30 - 9PM| Student Success Center(Mayer Hall -- Revelle)|
 
 ## Purpose
 
