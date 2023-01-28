@@ -2,13 +2,15 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 
+<Announcement>SUMS Merch is out! If you would like to order one, fill out the form<a href ="https://forms.gle/nfiVYwATzrJKph9c9"> here. </a> </Announcement>
+
 ## Upcoming Events
 
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-| January 24th|Winter 2023 GBM| 5-7PM| Natural Sciences Building Auditorium|
-| January 27th|Board Game Night| 5:30 - 9PM| Student Success Center(Mayer Hall -- Revelle)|
+<!--| February 3rd|Winter 2023 GBM| 5-7PM| Natural Sciences Building Auditorium|-->
+| February 2nd|Lightning Talk: Spectral Sequences| 4PM - 5PM| APM 7321|
 
 ## Purpose
 
