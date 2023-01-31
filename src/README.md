@@ -9,7 +9,6 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-<!--| February 3rd|Winter 2023 GBM| 5-7PM| Natural Sciences Building Auditorium|-->
 | February 2nd|Lightning Talk: Spectral Sequences| 4PM - 5PM| APM 7321|
 
 ## Purpose
