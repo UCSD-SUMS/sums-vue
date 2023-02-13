@@ -9,7 +9,8 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-| February 2nd|Lightning Talk: Spectral Sequences| 4PM - 5PM| APM 7321|
+| February 15th|Project Euler Workshop: Part I|3PM | APM 7218|
+| February 16th| Lightning Talk: Math Puzzles| 4PM - 5PM| APM 7321| 
 
 ## Purpose
 
