@@ -2,8 +2,6 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 
-<Announcement>SUMS Merch is out! If you would like to order one, fill out the form<a href ="https://forms.gle/nfiVYwATzrJKph9c9"> here. </a> </Announcement>
-
 ## Upcoming Events
 
 <!-- EVENT TABLE TEMPLATE -->
