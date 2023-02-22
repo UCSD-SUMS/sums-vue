@@ -7,9 +7,9 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-| February 15th|Project Euler Workshop: Part I|3PM | APM 7218|
-| February 16th|Upper Division Workshop|3PM - 4PM| APM 7321|
-| February 16th| Lightning Talk: Math Puzzles| 4PM - 5PM| APM 7321| 
+| February 22nd|SUMS x CSES LaTeX Workshop|6PM - 7PM|CS Building B225|
+| February 23rd|Lightning Talk: Math Puzzles|4PM - 5PM| APM 7321|
+
 
 ## Purpose
 
