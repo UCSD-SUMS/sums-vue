@@ -2,6 +2,8 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 
+<Announcement>Sign up to particiapte in our Pi Day Jeopardy <a href ="https://forms.gle/ioDEPCqNJJSydH7W8"> here!</a></Announcement>
+
 ## Upcoming Events
 
 <!-- EVENT TABLE TEMPLATE -->
