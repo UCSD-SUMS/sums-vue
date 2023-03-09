@@ -7,8 +7,8 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-| February 22nd|SUMS x CSES LaTeX Workshop|6PM - 7PM|CS Building B225|
-| February 23rd|Lightning Talk: Math Puzzles|4PM - 5PM| APM 7321|
+| March 10th|Movie Night: Gravity|5:30PM|Design and Innovation Building(DIB) 306|
+| March 14th|Pi Day Jeopardy|7PM|DIB |
 
 
 ## Purpose

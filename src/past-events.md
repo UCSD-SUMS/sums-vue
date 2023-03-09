@@ -4,6 +4,10 @@ sidebar: auto
 
 # Past Events
 
+## Winter 2023 <Math>\LaTeX</Math> Workshop 
+Blank template can be found here: [Tex File](https://github.com/UCSD-SUMS/latex-workshop)
+Slides and solutions will be uploaded after the workshop.
+
 ## Undergraduate Research in Mathematics Workshop 
 This workshop gave an introduction to mathematics research at UCSD, REUs, and research in math-adjacent fields. The slides for this presentation can be found [here](https://docs.google.com/presentation/d/1IKsUyRTjbYqLAO-8aqVs-svpsHMGRyR0Qb98IJuw08U/edit?usp=sharing)
 
