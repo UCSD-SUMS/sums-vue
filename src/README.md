@@ -2,15 +2,15 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 
-<Announcement>Sign up to particiapte in our Pi Day Jeopardy <a href ="https://forms.gle/ioDEPCqNJJSydH7W8"> here!</a></Announcement>
 
 ## Upcoming Events
+There are currently no upcoming events, have a great spring break!
 
-<!-- EVENT TABLE TEMPLATE -->
+<!-- EVENT TABLE TEMPLATE 
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
 | March 10th|Movie Night: Gravity|5:30PM|Design and Innovation Building(DIB) 306|
-| March 14th|Pi Day Jeopardy|7PM|DIB |
+| March 14th|Pi Day Jeopardy|7PM|DIB | -->
 
 
 ## Purpose
@@ -24,7 +24,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Info
 
-* SUMS is holding its weekly board meetings every **Thursday from 5:00PM - 6:00PM** in **APM 6402** 
+* SUMS is holding its weekly board meetings every **Monday from 4:00PM - 5:00PM** in **APM 6402** 
   * **If you wish to become a member please remember to sign in to events and meetings** To learn more about becoming a member please click [here](./get-involved.md).
 * Our events and activities are publicized on our newsletter, on Discord, and on flyers across campus.
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
