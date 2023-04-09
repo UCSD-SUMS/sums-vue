@@ -4,13 +4,12 @@
 
 
 ## Upcoming Events
-There are currently no upcoming events, have a great spring break!
 
-<!-- EVENT TABLE TEMPLATE 
+<!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-| March 10th|Movie Night: Gravity|5:30PM|Design and Innovation Building(DIB) 306|
-| March 14th|Pi Day Jeopardy|7PM|DIB | -->
+| April 14th|Board Game Night|5PM - 8PM|APM 6402|
+
 
 
 ## Purpose
