@@ -1,6 +1,12 @@
 # Society of Undergraduate Mathematics Students
 
 <!-- Insert an `Announcement` component here when applicable -->
+<Announcement>
+Our annual integration bee is here! Sign up for the qualifiers <a href = "https://docs.google.com/forms/d/e/1FAIpQLScpqYFXGagfah2pkEbnikXK9Bw9uJh_5tvodwlLJnCu0Ziv9Q/viewform" target = "_blank">here</a>. </br>
+
+Are you a mathematics student graduating this year? Order your stoles <a href = "https://docs.google.com/forms/d/e/1FAIpQLSekSUDz4OUAgnZNfOUdoKQb5lHWuJWepoOXhcbsaKg327kY8w/viewform" target = "_blank">here</a>.
+</Announcement> 
+
 
 
 ## Upcoming Events

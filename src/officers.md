@@ -5,14 +5,14 @@ pageClass: horizontal-cards
 
 # Officers
 
-Please email us at [sums@ucsd.edu](mailto:sums@ucsd.edu) for general inquiries.
+Please email us at **sums at ucsd dot edu** for general inquiries.
 
 <!-- PRESIDENT -->
 
 <Officer
     name="Fred Rajasekaran"
     image="FrederickRajasekaran.jpg"
-    email="frajasek@ucsd.edu"
+    email="frajasek at ucsd dot edu"
     major="Math, Physics"
     year="4th Year, Sixth">
 <template v-slot:title>
@@ -38,7 +38,7 @@ Site: [sites.google.com/fredraj](https://sites.google.com/view/fredraj)
 <Officer
     name="Seung Hyun &quot;Harry&quot; Cheon"
     image="HarryCheon.JPG"
-    email="scheon@ucsd.edu"
+    email="scheon at ucsd dot edu"
     major="Applied Mathematics and Data Science"
     year="3rd Year, Warren">
 <template v-slot:title>
@@ -64,7 +64,7 @@ Hobbies: *Golf, Basketball, Baseball, Cooking, Reading*
 <Officer
     name="Julie Galang"
     image="JulieGalang.jpg"
-    email="jgalang@ucsd.edu"
+    email="jgalang at ucsd dot edu"
     major="ICAM Music, Mathematics minor"
     year="3rd Year, Marshall">
 <template v-slot:title>
@@ -89,7 +89,7 @@ Hobbies: *Playing music, Crocheting, Baking*
 <Officer
     name="Shir Levin"
     image="ShirLevin.jpg"
-    email="sblevin@ucsd.edu"
+    email="sblevin at ucsd dot edu"
     major="Applied Mathematics"
     year="3rd Year, Sixth">
 <template v-slot:title>
@@ -113,7 +113,7 @@ Hobbies: *Reading and Hiking*
 <Officer
     name="Alliya Eid"
     image="AlliyaEid.jpeg"
-    email="aeid@ucsd.edu"
+    email="aeid at ucsd dot edu"
     major="Math-Secondary Education"
     year="3rd Year, Sixth">
 <template v-slot:title>
@@ -138,7 +138,7 @@ Hobbies: *Baking, Going to Concerts*
 <Officer
     name="Gallant Tsao"
     image="GallantTsao.jpg"
-    email="ctsao@ucsd.edu"
+    email="ctsao at ucsd dot edu"
     major="Applied Mathematics"
     year="2nd Year, Sixth">
 <template v-slot:title>
@@ -162,7 +162,7 @@ Hobbies: *Tennis* <br />
 <Officer
     name="Devanshi Jain"
     image="DevanshiJain.PNG"
-    email="djain@ucsd.edu"
+    email="djain at ucsd dot edu"
     major="Mathematics, Computer Science"
     year="2nd Year, Revelle">
 <template v-slot:title>
@@ -187,7 +187,7 @@ Hobbies: *Flying, Jump Roping, Cooking, Minesweeper, Chess*
 <Officer
     name="Julie Hunter"
     image="JulieHunter.jpeg"
-    email="jmhunter@ucsd.edu"
+    email="jmhunter at ucsd dot edu"
     major="Applied Mathematics"
     year="2nd Year, Revelle">
 <template v-slot:title>
@@ -212,7 +212,7 @@ Hobbies: *Soccer, Running, Crafts, Painting*
 <Officer
     name="Anuj Jain"
     image="AnujJain.jpg"
-    email="anj008@ucsd.edu"
+    email="anj008 at ucsd dot edu"
     major="Mathematics, Computer Science - Ocean and Atmospheric Sciences"
     year="2nd Year, Marshall">
 <template v-slot:title>
@@ -236,7 +236,7 @@ Hobbies: *Badminton, Table Tennis, Music*
 <Officer
     name="Mica Li"
     image="MicaLi.jpg"
-    email="myl010@ucsd.edu"
+    email="myl010 at ucsd dot edu"
     major="Applied Mathematics"
     year="2nd Year, ERC">
 <template v-slot:title>
@@ -260,7 +260,7 @@ Hobbies: *Running, Knitting, Watching TV Shows*
 <Officer
     name="Kelly Simmons"
     image="KellySimmons.jpg"
-    email="k1simmons@ucsd.edu"
+    email="k1simmons at ucsd dot edu"
     major=""
     year="Department of Mathematics">
 <template v-slot:title>
