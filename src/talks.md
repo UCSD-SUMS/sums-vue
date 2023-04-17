@@ -23,6 +23,14 @@ We can take care of event logistics and publicity for you!
 
 ### 2022-2023 
 
+#### "A (non) Mathematical Approach to Puzzles" by *Ryan Batubara*
+
+<time datetime = "2023-02-23"> February 23, 2023 </time> 
+
+Puzzles are interesting as they often force players to rethink what they already know. This lightning talk focuses on simple mathematical puzzles that make us rethink how we use mathematics to abstract problems. No prior mathematical knowledge required.
+
+---
+
 #### "Connecting the Dots: Chebyshev Polynomial Interpolation" by *Aidan Epperly*
 
 <time datetime = "2022-10-20"> October 19, 2022 </time> 

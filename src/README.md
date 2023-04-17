@@ -14,7 +14,11 @@ Are you a mathematics student graduating this year? Order your stoles <a href = 
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-| April 14th|Board Game Night|5PM - 8PM|APM 6402|
+| April 19th|Unique Games Conjecture|5PM - 6PM|APM 6402|
+| April 26th| Rapid Mental Calculations Workshop| 4PM - 5PM| APM 6402| 
+| May 3rd| Integration Workshop| 4PM - 5PM| APM 6402| 
+| May 10th| Encryption Problems Workshop| 4PM - 5PM| APM 6402|
+
 
 
 
