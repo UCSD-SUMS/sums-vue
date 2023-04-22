@@ -23,6 +23,18 @@ We can take care of event logistics and publicity for you!
 
 ### 2022-2023 
 
+#### "Unique Games Conjecture" by *Weili Cao*
+
+<time datetime = "2023-04-19"> April 19, 2023 </time> 
+
+While for some questions np-completeness shows that no polynomial time algorithms exists assume p is not equal to np, people alternatively find approximation algorithms where optimal solution is achieved at most instead of all of the times. Unique Games Conjecture, introduced by Subhash Khot in 2002, can then be used to show the hardness of inapproximability result, meaning that for many problems UGC shows nonexistence of good polynomial approximation algorithms.
+
+Those who were unable to attend in-person but are interested in the topic can find the slides <a href = "https://docs.google.com/presentation/d/1pn_dpw76LRHNy6GOa3wvRQVhyM0Otefa/edit?usp=sharing&ouid=116159497652103665829&rtpof=true&sd=true" target = "_blank">here</a>. </br>
+
+
+---
+
+
 #### "A (non) Mathematical Approach to Puzzles" by *Ryan Batubara*
 
 <time datetime = "2023-02-23"> February 23, 2023 </time> 

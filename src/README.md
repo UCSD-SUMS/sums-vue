@@ -14,10 +14,12 @@ Are you a mathematics student graduating this year? Order your stoles <a href = 
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-| April 19th|Unique Games Conjecture|5PM - 6PM|APM 6402|
 | April 26th| Rapid Mental Calculations Workshop| 4PM - 5PM| APM 6402| 
+| May 1st| A Historical Narrative on Mathematical Puzzles| 5PM - 6PM| APM 7218|
 | May 3rd| Integration Workshop| 4PM - 5PM| APM 6402| 
 | May 10th| Encryption Problems Workshop| 4PM - 5PM| APM 6402|
+|May 17th| Lie Theory - A Practical Introduction| 5PM -6PM| APM 6402| 
+|May 24th| Robust Neural Network Verification: What Makes a Stop Sign a Stop Sign?| 5PM - 6PM| APM 6402|
 
 
 
