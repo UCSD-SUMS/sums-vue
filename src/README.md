@@ -2,7 +2,6 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 <Announcement>
-Our annual integration bee is here! Sign up for the qualifiers <a href = "https://docs.google.com/forms/d/e/1FAIpQLScpqYFXGagfah2pkEbnikXK9Bw9uJh_5tvodwlLJnCu0Ziv9Q/viewform" target = "_blank">here</a>. </br>
 
 Are you a mathematics student graduating this year? Order your stoles <a href = "https://docs.google.com/forms/d/e/1FAIpQLSekSUDz4OUAgnZNfOUdoKQb5lHWuJWepoOXhcbsaKg327kY8w/viewform" target = "_blank">here</a>.
 </Announcement> 
@@ -14,9 +13,6 @@ Are you a mathematics student graduating this year? Order your stoles <a href = 
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-| April 26th| Rapid Mental Calculations Workshop| 4PM - 5PM| APM 6402| 
-| May 1st| A Historical Narrative on Mathematical Puzzles| 5PM - 6PM| APM 7218|
-| May 3rd| Integration Workshop| 4PM - 5PM| APM 6402| 
 | May 10th| Encryption Problems Workshop| 4PM - 5PM| APM 6402|
 |May 17th| Lie Theory - A Practical Introduction| 5PM -6PM| APM 6402| 
 |May 24th| Robust Neural Network Verification: What Makes a Stop Sign a Stop Sign?| 5PM - 6PM| APM 6402|
