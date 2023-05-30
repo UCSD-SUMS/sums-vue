@@ -9,10 +9,8 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-|May 17th| Lie Theory - A Practical Introduction| 5PM -6PM| APM 6402| 
-|May 19th| Movie Night | 5PM | HSS 4025|
-|May 24th| Upper Division Workshop |3PM - 4PM| APM 6402|
-|May 24th| Robust Neural Network Verification: What Makes a Stop Sign a Stop Sign?| 5PM - 6PM| APM 6402|
+|June 2nd| INTEGRATION BEE| 4PM - 7PM| APM 6402| 
+
 
 
 
