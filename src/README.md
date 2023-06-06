@@ -9,7 +9,7 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-|June 2nd| INTEGRATION BEE| 4PM - 7PM| APM 6402| 
+|June 9th| End of Quarter Social| 5PM - 8PM| APM 6402| 
 
 
 

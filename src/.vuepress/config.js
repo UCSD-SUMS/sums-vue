@@ -23,6 +23,7 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Get Involved", link: "/get-involved.html" },
       { text: "Past Event Resources", link: "/past-events.html"},
+      { text: "Integration Bee", link: "/integration-bee.html"},
       { text: "Talks", link: "/talks.html" },
       { text: "Officers", link: "/officers.html" },
       {
