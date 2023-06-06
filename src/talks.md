@@ -23,6 +23,30 @@ We can take care of event logistics and publicity for you!
 
 ### 2022-2023 
 
+#### "Robust Neural Network Verification: What makes a stop sign a stop sign?" by *Aidan Epperly*
+
+<time datetime = "2023-05-24"> May 24, 2023 </time> 
+
+Neural networks are increasing used in safety critical situations, such as in self driving cars. However, these networks can often be vulnerable to adversarial attacks. Come hear about how we can use methods in convex optimization to verify the robustness of neural networks against these attacks.
+
+---
+
+#### "Lie Theory - A Practical Introduction" by *Aidan Epperly*
+
+<time datetime = "2023-05-17"> May 17, 2023 </time> 
+
+Lie Theory has a bad reputation within the applied math community. However, many important and practical results can be proven using Lie theory, often in a much more beautiful and intuitive way.
+
+---
+
+#### "A Historical Narrative on Mathematical Puzzles" by *Ryan Batubara*
+
+<time datetime = "2023-05-01"> May 1, 2023 </time> 
+
+This lightning talk will give a high-level overview on mathematical puzzles, from Archaic Greece to Modern Times. We will explore measures of complexity and the evolution of puzzle design, and see reflections of this evolution on mathematics as a whole. For the materials used in this lightning talk, please click [here](https://docs.google.com/presentation/d/1r0ZUOde6Zrjq_sA-HdJnGtF2xd3eB_WiOssCzvuiRxI/edit?usp=sharing). 
+
+---
+
 #### "Unique Games Conjecture" by *Weili Cao*
 
 <time datetime = "2023-04-19"> April 19, 2023 </time> 
