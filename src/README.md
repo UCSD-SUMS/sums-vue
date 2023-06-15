@@ -6,10 +6,11 @@
 
 ## Upcoming Events
 
-<!-- EVENT TABLE TEMPLATE -->
+<!-- EVENT TABLE TEMPLATE 
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-|June 9th| End of Quarter Social| 5PM - 8PM| APM 6402| 
+|date| event | time| room| -->
+Currently no events! Have a good summer.
 
 
 
