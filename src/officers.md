@@ -5,45 +5,18 @@ pageClass: horizontal-cards
 
 # Officers
 
-Please email us at **sums at ucsd dot edu** for general inquiries.
+To contact our officers and to make general inquiries please email us at **sums (at) ucsd (dot) edu**.
 
 <!-- PRESIDENT -->
 
 <Officer
-    name="Fred Rajasekaran"
-    image="FrederickRajasekaran.jpg"
-    email="frajasek at ucsd dot edu"
-    major="Math, Physics"
-    year="4th Year, Sixth">
+    name="Seung Hyun &quot;Harry&quot; Cheon"
+    image="HarryCheon.JPG"
+    major="Applied Mathematics and Data Science"
+    year="4th Year, Warren">
 <template v-slot:title>
 
 ## President
-
-</template>
-<template v-slot:extra>
-
-> I joined SUMS because I wanted to be around other likeminded people who have a passion for math.
-> As president, I hope to help spread this passion to others at UCSD and help the club grow.
-
-Favorite Fields of Math: *Probability and PDEs* <br />
-Favorite Math Classes: *MATH 140* <br />
-Hobbies: *Lifting, Travelling, Basketball* <br />
-Site: [sites.google.com/fredraj](https://sites.google.com/view/fredraj)
-
-</template>
-</Officer>
-
-<!-- VICE PRESIDENT INTERNAL -->
-
-<Officer
-    name="Seung Hyun &quot;Harry&quot; Cheon"
-    image="HarryCheon.JPG"
-    email="scheon at ucsd dot edu"
-    major="Applied Mathematics and Data Science"
-    year="3rd Year, Warren">
-<template v-slot:title>
-
-## Vice President Internal
 
 </template>
 <template v-slot:extra>
@@ -59,14 +32,37 @@ Hobbies: *Golf, Basketball, Baseball, Cooking, Reading*
 </template>
 </Officer>
 
+<!-- VICE PRESIDENT INTERNAL -->
+
+<Officer
+    name= "Devanshi Jain"
+    image= "DevanshiJain.PNG"
+    major= "Mathematics, Computer Science"
+    year="3rd Year, Revelle">
+<template v-slot:title>
+
+## Vice President Internal
+
+</template>
+<template v-slot:extra>
+
+> I joined SUMS since it is a great place to be around people with a similar passion for math. 
+> It is a welcoming and close-knit community for math majors, and as an officer, I hope to get more people involved and provide an opportunity for them to learn and connect. 
+
+Favorite Fields of Math: *Linear Algebra and Combinatorics* <br />
+Favorite Math Classes: *Math 31AH, Math 184* <br />
+Hobbies: *Flying, Jump Roping, Cooking, Minesweeper, Chess*
+
+</template>
+</Officer>
+
 <!-- VICE PRESIDENT EXTERNAL -->
 
 <Officer
-    name="Julie Galang"
-    image="JulieGalang.jpg"
-    email="jgalang at ucsd dot edu"
-    major="ICAM Music, Mathematics minor"
-    year="3rd Year, Marshall">
+    name="Julie Hunter"
+    image="JulieHunter.jpeg"
+    major="Applied Mathematics, Marine Science Minor"
+    year="3rd Year, Revelle">
 <template v-slot:title>
 
 ## Vice President External
@@ -74,12 +70,12 @@ Hobbies: *Golf, Basketball, Baseball, Cooking, Reading*
 </template>
 <template v-slot:extra>
 
-> I joined SUMS to meet other students who share the same interests in math as I do.
-> As an officer, I hope to get more people involved and interested in math.
+> I joined SUMS because I wanted to meet more math majors and learn more about what career fields I could go into with a math degree.
+> I really love being around other students that enjoy math as much as I do.
 
-Favorite Fields of Math: *Real Analysis* <br />
-Favorite Math Classes: *Math 140A* <br />
-Hobbies: *Playing music, Crocheting, Baking*
+Favorite Fields of Math: *Calculus* <br />
+Favorite Math Classes: *MATH 20C, MATH 109* <br />
+Hobbies: *Soccer, Running, Crafts, Painting*
 
 </template>
 </Officer>
@@ -89,9 +85,8 @@ Hobbies: *Playing music, Crocheting, Baking*
 <Officer
     name="Shir Levin"
     image="ShirLevin.jpg"
-    email="sblevin at ucsd dot edu"
     major="Applied Mathematics"
-    year="3rd Year, Sixth">
+    year="4th Year, Sixth">
 <template v-slot:title>
 
 ## Secretary
@@ -111,11 +106,10 @@ Hobbies: *Reading and Hiking*
 <!-- TREASURER -->
 
 <Officer
-    name="Alliya Eid"
-    image="AlliyaEid.jpeg"
-    email="aeid at ucsd dot edu"
-    major="Math-Secondary Education"
-    year="3rd Year, Sixth">
+    name="Harry Lonsdale"
+    image="HarryLonsdale.jpg"
+    major="Mathematics-Computer Science"
+    year="2nd Year, Seventh">
 <template v-slot:title>
 
 ## Treasurer
@@ -123,12 +117,12 @@ Hobbies: *Reading and Hiking*
 </template>
 <template v-slot:extra>
 
-> I joined SUMS to meet others who are in the same field as me and have a passion for math.
-> I hope to get more people involved within the community and have some fun.
+> I'm passionate about mathematics and love to meet new people, so SUMS is a great way to explore 
+> both of those.
 
-Favorite Fields of Math: *Linear Algebra and Statistics* <br />
-Favorite Math Classes: *MATH 183, MATH 102* <br />
-Hobbies: *Baking, Going to Concerts*
+Favorite Fields of Math: *Linear Algebra, Neural Networks, Fluid Flow* <br />
+Favorite Math Classes: *MATH 18, MATH 102, MATH 20E* <br />
+Hobbies: *Running, Watching Formula 1, Listening to music*
 
 </template>
 </Officer>
@@ -138,9 +132,8 @@ Hobbies: *Baking, Going to Concerts*
 <Officer
     name="Gallant Tsao"
     image="GallantTsao.jpg"
-    email="ctsao at ucsd dot edu"
     major="Applied Mathematics"
-    year="2nd Year, Sixth">
+    year="3rd Year, Sixth">
 <template v-slot:title>
 
 ## Events Chair
@@ -160,11 +153,10 @@ Hobbies: *Tennis* <br />
 <!-- WORKSHOPS CHAIR -->
 
 <Officer
-    name="Devanshi Jain"
-    image="DevanshiJain.PNG"
-    email="djain at ucsd dot edu"
-    major="Mathematics, Computer Science"
-    year="2nd Year, Revelle">
+    name= "Ryan Batubara"
+    image= "RyanBatubara.jpeg"
+    major= "Mathematics-Computer Science and Data Science"
+    year= "2nd Year, Revelle">
 <template v-slot:title>
 
 ## Workshops Chair
@@ -172,12 +164,11 @@ Hobbies: *Tennis* <br />
 </template>
 <template v-slot:extra>
 
-> I joined SUMS since it is a great place to be around people with a similar passion for math. 
-> It is a welcoming and close-knit community for math majors, and as an officer, I hope to get more people involved and provide an opportunity for them to learn and connect. 
+>I joined SUMS because of its supportive community and great platform to share the math I enjoy.
 
-Favorite Fields of Math: *Linear Algebra and Combinatorics* <br />
-Favorite Math Classes: *Math 31AH, Math 184* <br />
-Hobbies: *Flying, Jump Roping, Cooking, Minesweeper, Chess*
+Favorite Fields of Math: *Recreational Mathematics, Combinatorics* <br />
+Favorite Math Classes: *MATH 109, MATH 180A* <br />
+Hobbies: *Puzzles, Games, Classical Guitar* <br />
 
 </template>
 </Officer>
@@ -185,11 +176,10 @@ Hobbies: *Flying, Jump Roping, Cooking, Minesweeper, Chess*
 <!-- PUBLICITY CHAIR -->
 
 <Officer
-    name="Julie Hunter"
-    image="JulieHunter.jpeg"
-    email="jmhunter at ucsd dot edu"
-    major="Applied Mathematics"
-    year="2nd Year, Revelle">
+    name= "Hailey Thai"
+    image= "HaileyThai.jpeg"
+    major="Mathematics-Probability and Statistics, Chinese Studies Minor"
+    year="2nd Year, ERC">
 <template v-slot:title>
 
 ## Publicity Chair
@@ -197,13 +187,12 @@ Hobbies: *Flying, Jump Roping, Cooking, Minesweeper, Chess*
 </template>
 <template v-slot:extra>
 
-> I joined SUMS because I wanted to meet more math majors and learn more about what career fields I could go into with a math degree.
-> I really love being around other students that enjoy math as much as I do.
+> I joined SUMS to be a part of a community that shares the same passion that I do for math. 
 
-Favorite Fields of Math: *Calculus* <br />
+Favorite Fields of Math: *Probability, Statistics* <br />
 Favorite Math Classes: *MATH 20C* <br />
-Hobbies: *Soccer, Running, Crafts, Painting*
-
+Hobbies: *Juggling, Magic, Drawing* <br />
+ 
 </template>
 </Officer>
 
@@ -212,9 +201,8 @@ Hobbies: *Soccer, Running, Crafts, Painting*
 <Officer
     name="Anuj Jain"
     image="AnujJain.jpg"
-    email="anj008 at ucsd dot edu"
     major="Mathematics, Computer Science - Ocean and Atmospheric Sciences"
-    year="2nd Year, Marshall">
+    year="3rd Year, Marshall">
 <template v-slot:title>
 
 ## Historian
@@ -236,9 +224,8 @@ Hobbies: *Badminton, Table Tennis, Music*
 <Officer
     name="Mica Li"
     image="MicaLi.jpg"
-    email="myl010 at ucsd dot edu"
-    major="Applied Mathematics"
-    year="2nd Year, ERC">
+    major="Mathematics"
+    year="3rd Year, ERC">
 <template v-slot:title>
 
 ## Tech Chair
@@ -248,9 +235,9 @@ Hobbies: *Badminton, Table Tennis, Music*
 
 > I joined SUMS because I wanted to meet other math majors in a more social setting and to also find others who are passionate about mathematics.
 
-Favorite Fields of Math: *Analysis and Number Theory* <br />
-Favorite Math Classes: *Math 20E* <br />
-Hobbies: *Running, Knitting, Watching TV Shows*
+Favorite Fields of Math: *Differential Geometry, PDEs* <br />
+Favorite Math Classes: *MATH 140B* <br />
+Hobbies: *Basketball, Weightlifting, Running*
 
 </template>
 </Officer>
@@ -260,7 +247,6 @@ Hobbies: *Running, Knitting, Watching TV Shows*
 <Officer
     name="Kelly Simmons"
     image="KellySimmons.jpg"
-    email="k1simmons at ucsd dot edu"
     major=""
     year="Department of Mathematics">
 <template v-slot:title>

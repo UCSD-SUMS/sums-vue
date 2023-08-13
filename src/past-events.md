@@ -3,35 +3,58 @@ sidebar: auto
 ---
 
 # Past Events
+Some events that we host have resources that are made available after the event. 
 
-## Winter 2023 <Math>\LaTeX</Math> Workshop 
+## 2022-2023
+
+### Winter 2023 <Math>\LaTeX</Math> Workshop 
+
 Blank template can be found here: [Tex File](https://github.com/UCSD-SUMS/latex-workshop)
 Slides and solutions will be uploaded after the workshop.
 
-## Undergraduate Research in Mathematics Workshop 
+---
+
+### Undergraduate Research in Mathematics Workshop 
+
 This workshop gave an introduction to mathematics research at UCSD, REUs, and research in math-adjacent fields. The slides for this presentation can be found [here](https://docs.google.com/presentation/d/1IKsUyRTjbYqLAO-8aqVs-svpsHMGRyR0Qb98IJuw08U/edit?usp=sharing)
 
-## Upper-Division Mathematics Workshop 
+---
+
+### Upper-Division Mathematics Workshop 
+
 An introduction to the upper-division course work at UCSD. Slides can be found [here](https://docs.google.com/presentation/d/1kLMJIVU-9felJf3FOB60QxkE3wo6txCFdB7G9pFZLhM/edit?usp=sharing). 
 
-## Putnam Seminar
+---
+
+### Putnam Seminar
+
 This 3-part seminar was hosted by the Workshops Chair of SUMS, Devanshi. Problems and answers can be found here: 
 * Polynomials: [Problems](https://drive.google.com/file/d/1HgF_sbNV_jyYJyEWozEWOIaZiQD0U73-/view?usp=sharing)
 
-## CSES x SUMS <Math>\LaTeX</Math> Workshop 
+---
+
+### CSES x SUMS <Math>\LaTeX</Math> Workshop 
+
 A collaboration with CSES and SUMS to teach an introduction to <Math>\LaTeX</Math> 
 * [Slides](https://docs.google.com/presentation/d/1NQB9L7JQ3HODRe00wvXLLZ3YPpZBss8PsPGH0A3W1XI/edit?usp=sharing)
 * [Overleaf Document -- Solutions](https://www.overleaf.com/read/xnsdcjkpqjbn)
 
-## Math Industry Day
+---
+
+
+## 2021-2022
+
+### Math Industry Day
 
 <time datetime="2022-05-02">May 2, 2022</time>
 
 A panel of three UCSD alumni who are using their math degrees in industry provide their wisdom.
 
+---
+
 <iframe src="https://drive.google.com/file/d/1TVL7rYWDUnZnYXql-Rfy0F28CxKYtRbg/preview" width="640" height="480"></iframe>
 
-## Interview a Professor: Ioan Bejenaru
+### Interview a Professor: Ioan Bejenaru
 
 <time datetime="2022-02-24">February 24, 2022</time>
 
@@ -41,7 +64,9 @@ Topics covered included, but were not limited to, the faculty member's teaching 
 
 <iframe src="https://drive.google.com/file/d/1Jd3EtNyMtLSUM-075LWYvBBjAmhmV5QB/preview" width="640" height="480"></iframe>
 
-## Introduction to Topology
+---
+
+### Introduction to Topology
 
 <time datetime="2022-02-09">February 9, 2022</time>
 

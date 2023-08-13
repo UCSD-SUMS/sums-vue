@@ -15,8 +15,6 @@
 
       <!-- Fill in with the information passed to the component. -->
       <strong>{{ name }}</strong> <br />
-      <strong><em>{{ email }}</em></strong> <br />
-      <!--<a v-bind:href="'mailto:' + email">{{ email }}</a> <br /> -->
       <em>{{ major }}</em> <br />
       <em>{{ year }}</em>
 
