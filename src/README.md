@@ -30,7 +30,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
   * **If you wish to become a member please remember to sign in to events and meetings** To learn more about becoming a member please click [here](./get-involved.md).
 * Our events and activities are publicized on our newsletter, on Discord, and on flyers across campus.
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
-* Links to our social media are located at the top-right. Our email is [sums@ucsd.edu](mailto:sums@ucsd.edu).
+* Links to our social media are located at the top-right. Our email is sums (at) ucsd (dot) edu.
 
 ## Membership
 

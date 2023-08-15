@@ -107,7 +107,7 @@ Hobbies: *Reading and Hiking*
 
 <Officer
     name="Harry Lonsdale"
-    image="HarryLonsdale.jpg"
+    image="HarryLonsdale.JPG"
     major="Mathematics-Computer Science"
     year="2nd Year, Seventh">
 <template v-slot:title>
