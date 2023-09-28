@@ -6,11 +6,10 @@
 
 ## Upcoming Events
 
-<!-- EVENT TABLE TEMPLATE 
+<!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
-|date| event | time| room| -->
-Currently no events! Have a good summer.
+|October 10th| Fall GBM | 5:15PM - 6:15PM |Natural Sciences Building Auditorium| 
 
 
 
