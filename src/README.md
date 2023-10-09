@@ -10,6 +10,8 @@
 |Date | Event | Time | Place|
 | ----|------ | -----|----- |
 |October 10th| Fall GBM | 5:15PM - 6:15PM |Natural Sciences Building Auditorium| 
+|October 13th| Board Game Night| 5PM | APM 6402| 
+|October 18th| Careers in Finance w/ Rady| 5PM - 6PM| APM 6402|
 
 
 
@@ -19,6 +21,10 @@
 SUMS, a UC San Diego student organization, provides resources, workshops, talks, and social events for UCSD’s mathematics community with the goal of promoting mathematics and related fields. <br />
 <div class = "row justify-content-center">
   <a href="https://discord.gg/XVVeGHXGTt" target = "_blank" class="btn btn-info" >Join Our Discord Server</a>
+</div>
+
+<div class = "row justify-content-center">
+  <a href="http://eepurl.com/cJMmqf" target = "_blank" class="btn btn-info" >Subscribe to Our Newsletter</a>
 </div>
 
 
