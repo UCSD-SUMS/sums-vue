@@ -2,15 +2,16 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 
+<Annoucement> Sign-ups for our mentorship program is open! <a href="https://forms.gle/kn1iSKu41rKVXuzAA" target = "_blank">Mentor Sign-Up</a>, <a href="https://forms.gle/kn1iSKu41rKVXuzAA" target = "_blank">Mentee Sign-Up</a>. The deadline to apply is October 31st.
 
+
+</Annoucement>
 
 ## Upcoming Events
 
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
-| ----|------ | -----|----- |
-|October 10th| Fall GBM | 5:15PM - 6:15PM |Natural Sciences Building Auditorium| 
-|October 13th| Board Game Night| 5PM | APM 6402| 
+| ----|------ | -----|----- | 
 |October 18th| Careers in Finance w/ Rady| 5PM - 6PM| APM 6402|
 
 
