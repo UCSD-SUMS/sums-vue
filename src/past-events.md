@@ -5,6 +5,12 @@ sidebar: auto
 # Past Events
 Some events that we host have resources that are made available after the event. 
 
+## 2023-2024 
+
+### Careers in Finance
+
+For those who are interested in careers in finance, the slides for our workshop can be found [here](https://docs.google.com/presentation/d/1KjR2FnoqwZEcTHWCwvh1qvh-X6wzmHX8uKDWcnD47jc/edit?usp=sharing).
+
 ## 2022-2023
 
 ### Winter 2023 <Math>\LaTeX</Math> Workshop 
