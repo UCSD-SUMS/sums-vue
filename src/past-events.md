@@ -7,6 +7,10 @@ Some events that we host have resources that are made available after the event.
 
 ## 2023-2024 
 
+### <Math>\LaTeX</Math> Workshop 
+
+The link to the work that is going to be done during the workshop can be found [here](https://www.overleaf.com/read/rgtrkqngmchr). 
+
 ### Careers in Finance
 
 For those who are interested in careers in finance, the slides for our workshop can be found [here](https://docs.google.com/presentation/d/1KjR2FnoqwZEcTHWCwvh1qvh-X6wzmHX8uKDWcnD47jc/edit?usp=sharing).

@@ -12,7 +12,7 @@
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
 | ----|------ | -----|----- | 
-|October 18th| Careers in Finance w/ Rady| 5PM - 6PM| APM 6402|
+|October 23rd| <Math>\LaTeX</Math> Workshop| 5PM - 6PM| APM 6402|
 
 
 
