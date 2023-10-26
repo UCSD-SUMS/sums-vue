@@ -2,7 +2,7 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 
-<Annoucement> Sign-ups for our mentorship program is open! <a href="https://forms.gle/kn1iSKu41rKVXuzAA" target = "_blank">Mentor Sign-Up</a>, <a href="https://forms.gle/kn1iSKu41rKVXuzAA" target = "_blank">Mentee Sign-Up</a>. The deadline to apply is October 31st.
+<Annoucement> Sign-ups for our mentorship program is open! <a href="https://forms.gle/kn1iSKu41rKVXuzAA" target = "_blank">Mentor Sign-Up</a>, <a href="https://forms.gle/nng8CvV32XSChxCs6" target = "_blank">Mentee Sign-Up</a>. The deadline to apply is October 31st.
 
 
 </Annoucement>

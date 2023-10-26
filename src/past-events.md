@@ -9,7 +9,9 @@ Some events that we host have resources that are made available after the event.
 
 ### <Math>\LaTeX</Math> Workshop 
 
-The link to the work that is going to be done during the workshop can be found [here](https://www.overleaf.com/read/rgtrkqngmchr). 
+The link to the work that is going to be done during the workshop can be found [here](https://github.com/UCSD-SUMS/sums-vue/blob/master/SUMS_LaTeX_Handout_FA23.pdf). 
+The slides for the workshop can be found [here](https://github.com/UCSD-SUMS/sums-vue/blob/master/SUMS_LaTeX_Workshop_FA23.pdf). 
+The <Math>\LaTeX</Math> document that was being worked on during the workshop can be found [here](https://github.com/UCSD-SUMS/sums-vue/blob/master/SUMS_LaTeX_Handout_FA23.tex). 
 
 ### Careers in Finance
 
