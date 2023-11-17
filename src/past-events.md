@@ -7,11 +7,19 @@ Some events that we host have resources that are made available after the event.
 
 ## 2023-2024 
 
+### Undergraduate Research in Mathematics Workshop 2023
+
+This workshop gave an introduction to mathematics research at UCSD, REUs, and research in math-adjacent fields. The slides for this presentation can be found [here](https://docs.google.com/presentation/d/1IKsUyRTjbYqLAO-8aqVs-svpsHMGRyR0Qb98IJuw08U/edit?usp=sharing)
+
+---
+
 ### <Math>\LaTeX</Math> Workshop 
 
 The link to the work that is going to be done during the workshop can be found [here](https://github.com/UCSD-SUMS/sums-vue/blob/master/SUMS_LaTeX_Handout_FA23.pdf). 
 The slides for the workshop can be found [here](https://github.com/UCSD-SUMS/sums-vue/blob/master/SUMS_LaTeX_Workshop_FA23.pdf). 
 The <Math>\LaTeX</Math> document that was being worked on during the workshop can be found [here](https://github.com/UCSD-SUMS/sums-vue/blob/master/SUMS_LaTeX_Handout_FA23.tex). 
+
+--- 
 
 ### Careers in Finance
 
@@ -26,7 +34,7 @@ Slides and solutions will be uploaded after the workshop.
 
 ---
 
-### Undergraduate Research in Mathematics Workshop 
+### Undergraduate Research in Mathematics Workshop 2022
 
 This workshop gave an introduction to mathematics research at UCSD, REUs, and research in math-adjacent fields. The slides for this presentation can be found [here](https://docs.google.com/presentation/d/1IKsUyRTjbYqLAO-8aqVs-svpsHMGRyR0Qb98IJuw08U/edit?usp=sharing)
 

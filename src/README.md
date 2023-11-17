@@ -2,17 +2,18 @@
 
 <!-- Insert an `Announcement` component here when applicable -->
 
-<Annoucement> Sign-ups for our mentorship program is open! <a href="https://forms.gle/kn1iSKu41rKVXuzAA" target = "_blank">Mentor Sign-Up</a>, <a href="https://forms.gle/nng8CvV32XSChxCs6" target = "_blank">Mentee Sign-Up</a>. The deadline to apply is October 31st.
 
 
-</Annoucement>
+
+</Annoucement> Our supremum merch is here! Order yours <a href = "https://forms.gle/nb9D4TiuBFVHcBML8" target = "_blank">here</a>!
 
 ## Upcoming Events
 
 <!-- EVENT TABLE TEMPLATE -->
 |Date | Event | Time | Place|
-| ----|------ | -----|----- | 
-|October 23rd| <Math>\LaTeX</Math> Workshop| 5PM - 6PM| APM 6402|
+| ----|------ | -----|----- |
+|November 17th| Movie Night: Bullet Train| 5:30PM| APM 6402|
+|November 20th| Interview a Professor: Aranya Lahiri| 5PM - 6PM| APM 5829
 
 
 
@@ -32,7 +33,7 @@ SUMS, a UC San Diego student organization, provides resources, workshops, talks,
 
 ## Info
 
-* SUMS is holding its weekly board meetings every **Tuesday from 5:00 - 6:00PM** in **APM 6402** 
+* SUMS is holding its weekly board meetings every **Tuesday from 5:00 - 6:00PM** in **HSS 4025** 
   * **If you wish to become a member please remember to sign in to events and meetings** To learn more about becoming a member please click [here](./get-involved.md).
 * Our events and activities are publicized on our newsletter, on Discord, and on flyers across campus.
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**

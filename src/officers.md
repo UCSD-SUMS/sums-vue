@@ -199,10 +199,10 @@ Hobbies: *Juggling, Magic, Drawing* <br />
 <!-- HISTORIAN -->
 
 <Officer
-    name="Anuj Jain"
-    image="AnujJain.jpg"
-    major="Mathematics, Computer Science - Ocean and Atmospheric Sciences"
-    year="3rd Year, Marshall">
+    name="Matt Tokunaga"
+    image="MattTokunaga.jpg"
+    major="Math, Data Science"
+    year="2nd Year, Revelle">
 <template v-slot:title>
 
 ## Historian
@@ -210,11 +210,12 @@ Hobbies: *Juggling, Magic, Drawing* <br />
 </template>
 <template v-slot:extra>
 
-> To help expand the Mathematical community at UCSD and organize useful competitions & workshops
+> I wanted friends and I figured I would feel comfortable around people that enjoy math like I do.
 
-Favorite Fields of Math: *Calculus, Permutations and Combination* <br />
-Favorite Math Classes: *Math 20 Series* <br />
-Hobbies: *Badminton, Table Tennis, Music*
+
+Favorite Fields of Math: To be decided <br />
+Favorite Math Classes: *MATH 31CH* <br />
+Hobbies: *Basketball, Volleyball, Baseball, Existing*
 
 </template>
 </Officer>
