@@ -1,0 +1,142 @@
+%%%===--- PREAMBLE ---===%%%
+% This defines what type of document this is
+\documentclass{article}
+
+%%%===--- ESSENTIAL PACKAGE IMPORTS ---===%%%
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath,amsthm,amssymb} % For math
+\usepackage{enumerate} % For lists
+
+%%%===--- UTILITY PACKAGE IMPORTS ---===%%%
+\usepackage{nicefrac} % For inline fractions
+\usepackage{esdiff} % For easier differentials
+\usepackage{listings} % For alternative lists
+
+%%%===--- FOR CHALLENGE PROBLEM ---===%%%
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+%%%===--- DOCUMENT INFORMATION ---===%%%
+\title{SUMS \LaTeX\! Workshop Handout FA23}
+\author{SUMS at UCSD}
+\date{October 23, 2023}
+
+%%%===--- BEGIN DOCUMENT ---===%%%
+\begin{document}
+\maketitle
+
+%%%===--- EXERCISE 1 ---===%%%
+\section{Introduction to Lists}
+
+%%%===--- Item List ---===%%%
+\begin{itemize}
+    \item This is a bulleted list.
+    \item Each line is made with a command, and ended with another.
+    \item Try make another list, but this time numbered.
+\end{itemize}
+
+%%%===--- Numbered (Enumerated) List ---===%%%
+Make a numbered list here with three items:
+%TODO Numbered List
+\begin{enumerate}
+    \item 1
+    \item hi
+    \item hello
+\end{enumerate}
+
+%%%===--- EXERCISE 2 ---===%%%
+\newpage
+\section{Equations}
+
+Fractions can be added using $\frac{numerator}{denominator}$. \\
+The dollar signs and other math environments put you into math mode. 
+\\[2\baselineskip]
+
+%%%===--- Inline Equations ---===%%%
+The quadratic formula is $\frac{-b \pm \sqrt{b^2 + 4ac}}{2a}$.
+\\[2\baselineskip]
+
+%%%===--- Centered equations ---===%%%
+The quadratic formula is 
+%TODO Centered
+\[ \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \]
+%TODO Equation
+\begin{equation}
+    \frac{-b \pm \sqrt{b^2 + 4ac}}{2a}
+\end{equation}
+%TODO Aligned
+\begin{align}
+    \frac{-b \pm \sqrt{b^2 + 4ac}}{2a}
+\end{align}
+\\[2\baselineskip]
+
+%%%===--- Unnumbered equations ---===%%%
+Notice that the above two equations are numbered. The following is not:
+%TODO Unnumbered align environment
+\begin{align*}
+    \frac{-b \pm \sqrt{b^2 + 4ac}}{2a}
+\end{align*}
+\\[2\baselineskip]
+
+%%%===--- EXERCISE 3 ---===%%%
+\newpage
+\section{Writing Equations}
+
+Copy the following equations:\\
+\includegraphics[scale=0.5]{EquationExercises.png}
+\\[2\baselineskip]
+
+%%%===--- More Complex Equations ---===%%%
+Copy the equations in the slide/image:
+\begin{align*}
+        1)\quad & - \frac{\hbar^2}{2m} \nabla^2 \psi + V (\mathbf{x}) \psi = E \psi \\
+        2)\quad & \Phi(x) = \frac{1}{1-x-x^2} =\sum_{n=0}^{\infty}F_nx^n\\
+        3)\quad & ~^k a \equiv \underbrace{a^{a^{.^{.^{a}}}}  }_{k \text{ times}}\\
+        &\text{Challenge Problem:}\\
+        4)\quad & \mathbf{1}_{\mathbb{Q}}(x) = \begin{cases}
+            1 & x \in \mathbb{Q} \\
+            0 & x \not= \mathbb{Q}
+        \end{cases} \\
+    \end{align*}
+\\[2\baselineskip]
+
+%%%===--- EXERCISE 4 ---===%%%
+\newpage
+\section{Matrices and Tables}
+
+Copy the following matrices and tables:\\
+\includegraphics[scale=0.5]{MatTabExercises.png}
+\\[2\baselineskip]
+
+%%%===--- More Complex Equations ---===%%%
+Copy the matrices/tables in the slide/image:
+\begin{align*}
+    1)\quad & I_3 = \begin{bmatrix}
+        1 & 0 & 0 \\
+        0 & 1 & 0 \\
+        0 & 0 & 1 \\
+    \end{bmatrix} \\
+    2)\quad & x^T = \begin{pmatrix}
+        1 & 2 & \ldots & n
+    \end{pmatrix}\\
+    3)\quad & \begin{tabular}{c|c}
+        \text{Number} & \text{Factors} \\
+        \hline
+        12 & 1, 2, 3, 4, 6, 12 \\
+        60 & 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60
+    \end{tabular}\\
+    &\text{Challenge Problem:}\\
+    4)\quad & \begin{tabular}{|C{2em}|C{2em}|C{2em}|}
+        \hline
+        \multicolumn{3}{|c|}{My Tic-Tac-Toe} \\
+        \hline
+        X &  &   \\
+        \hline
+        X & O &  \\
+        \hline
+         &  &  \\
+        \hline
+    \end{tabular} \\
+\end{align*}
+
+\end{document}
