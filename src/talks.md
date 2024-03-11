@@ -21,6 +21,13 @@ We can take care of event logistics and publicity for you!
 
 ## Past Talks
 
+### 2023 - 2024 
+#### "Interpretable and Explainable Machine Learning" by *Harry Cheon*
+
+<time datetime = "2024-02-08"> February 8th, 2024 </time> 
+
+The past few years have been an exciting time for real-world applications of machine learning and artificial intelligence. However, with the wider adoption of "black-box" models, especially in high-stakes decision-making areas like finance and criminal justice, greater risks emerge. Along with these concerns, the field of interpretable and explainable machine learning has emerged. The talk will introduce these concepts, recent works, and briefly discuss the current challenges in the field.
+
 ### 2022-2023 
 
 #### "Robust Neural Network Verification: What makes a stop sign a stop sign?" by *Aidan Epperly*
