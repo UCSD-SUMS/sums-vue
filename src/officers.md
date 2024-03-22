@@ -35,7 +35,7 @@ Hobbies: *Flying, Jump Roping, Cooking, Minesweeper, Chess*
 
 <Officer
     name= "Pranav Reddy"
-    image= "PranavReddy.jpg"
+    image= "PranavReddy.JPG"
     major= "Mathematics, Computer Engineering"
     year="3rd Year, Seventh">
 <template v-slot:title>
@@ -241,6 +241,52 @@ Hobbies: *Basketball, Weightlifting, Running*
 
 </template>
 </Officer>
+
+<!-- STAFF -->
+<Officer
+    name="Anuj Jain"
+    image="AnujJain.png"
+    major="Computer Science, Ocean-Atmospheric Science, Math minor"
+    year="3rd Year, Marshall">
+<template v-slot:title>
+
+## Staff Member - *Competitions*
+
+</template>
+<template v-slot:extra>
+
+> I have been excited about competitions in math and beyond since childhood.
+> SUMS community connected me to brilliant students interested in exploring mathematical applications in different domains. 
+
+Favorite Fields of Math: *Combinatorics, Calculus* <br />
+Favorite Math Classes: *MATH 154, MATH 20D* <br />
+Hobbies: *Badminton, Music, Traveling*
+
+</template>
+</Officer>
+
+<!-- STAFF -->
+<Officer
+    name="Isaiah Fang"
+    image="IsaiahFang.jpeg"
+    major="Mathematics-Economics, Data Science minor"
+    year="2nd Year, Revelle">
+<template v-slot:title>
+
+## Staff Member - *Social Media*
+
+</template>
+<template v-slot:extra>
+
+> To help promote the passion for math across campus.
+
+Favorite Fields of Math: *Calculus, Statistics* <br />
+Favorite Math Classes: *MATH 20C* <br />
+Hobbies: *Eating, Lifting, Running, Reading*
+
+</template>
+</Officer>
+
 
 <!-- COMMUNITY ADVISOR -->
 
