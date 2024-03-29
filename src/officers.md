@@ -244,6 +244,30 @@ Hobbies: *Basketball, Weightlifting, Running*
 
 <!-- STAFF -->
 <Officer
+    name="Emily Hawksworth"
+    image="EmilyHawksworth.jpeg"
+    major="Mathematics-Probability and Statistics, Global Health minor"
+    year="2nd Year, Muir">
+<template v-slot:title>
+
+## Staff Member - *EDI Chair*
+
+</template>
+<template v-slot:extra>
+
+> I joined SUMS because I wanted to meet other people who love math and get involved!
+
+
+Favorite Fields of Math: *Statistics, Linear Algebra* <br />
+Favorite Math Classes: *MATH 109, 180A, 102* <br />
+Hobbies: *Golfing, Hiking*
+
+</template>
+</Officer>
+
+
+<!-- STAFF -->
+<Officer
     name="Anuj Jain"
     image="AnujJain.png"
     major="Computer Science, Ocean-Atmospheric Science, Math minor"

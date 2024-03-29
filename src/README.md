@@ -12,18 +12,18 @@
 
 SUMS, a UC San Diego student organization, provides resources, workshops, talks, and social events for UCSD’s mathematics community with the goal of promoting mathematics and related fields. <br />
 <div class = "row justify-content-center">
-  <a href="https://discord.gg/XVVeGHXGTt" target = "_blank" class="btn btn-info" >Join Our Discord Server</a>
+  <a href="https://discord.gg/XVVeGHXGTt" target = "_blank" class="btn btn-info btn-lg btn-block" >Join Our Discord Server</a>
 </div>
 
 <div class = "row justify-content-center">
-  <a href="http://eepurl.com/cJMmqf" target = "_blank" class="btn btn-info" >Subscribe to Our Newsletter</a>
+  <a href="http://eepurl.com/cJMmqf" target = "_blank" class="btn btn-primary btn-lg btn-block" >Subscribe to Our Newsletter</a>
 </div>
 
 
 
 ## Info
 
-* SUMS is holding its weekly board meetings every **Monday from 6:30-7:30PM** in **APM 6402** 
+* SUMS is holding its weekly board meetings every **Monday from 6:00-7:00PM** in **APM 6402** 
   * **If you wish to become a member please remember to sign in to events and meetings** To learn more about becoming a member please click [here](./get-involved.md).
 * Our events and activities are publicized on our newsletter, on Discord, and on flyers across campus.
   * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
