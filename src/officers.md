@@ -26,7 +26,7 @@ To contact our officers and to make general inquiries please email us at **sums 
 
 Favorite Fields of Math: *Linear Algebra and Combinatorics* <br />
 Favorite Math Classes: *Math 31AH, Math 184* <br />
-Hobbies: *Flying, Jump Roping, Cooking, Minesweeper, Chess*
+Hobbies: *Golf, Chess, Squash, Reading, Jump Roping*
 
 </template>
 </Officer>
@@ -189,7 +189,7 @@ Hobbies: *Puzzles, Games, Classical Guitar* <br />
 > I joined SUMS to be a part of a community that shares the same passion that I do for math. 
 
 Favorite Fields of Math: *Probability, Statistics* <br />
-Favorite Math Classes: *MATH 20C* <br />
+Favorite Math Classes: *MATH 109, MATH 180A* <br />
 Hobbies: *Juggling, Magic, Drawing* <br />
  
 </template>
